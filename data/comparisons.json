@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "architecture-vs-urban-planning",
+    "left": "architecture",
+    "right": "urban-rural-planning",
+    "title": "建筑学 vs 城乡规划",
+    "description": "同属建筑类，但一个更偏建筑单体和空间设计，一个更偏城市尺度、土地政策和公共治理。"
+  },
+  {
+    "slug": "computer-science-vs-software-engineering",
+    "left": "computer-science-and-technology",
+    "right": "software-engineering",
+    "title": "计算机科学与技术 vs 软件工程",
+    "description": "一个更宽基础，一个更重工程交付。选择时要看你的兴趣是系统原理、算法基础，还是产品开发和项目实践。"
+  },
+  {
+    "slug": "artificial-intelligence-vs-computer-science",
+    "left": "artificial-intelligence",
+    "right": "computer-science-and-technology",
+    "title": "人工智能 vs 计算机科学与技术",
+    "description": "一个更聚焦AI模型、数据和智能应用，一个计算机基础面更宽。热门选择前先看数学、编程和学校培养质量。"
+  },
+  {
+    "slug": "artificial-intelligence-vs-data-science",
+    "left": "artificial-intelligence",
+    "right": "data-science-and-big-data-technology",
+    "title": "人工智能 vs 数据科学与大数据技术",
+    "description": "人工智能更偏模型和智能系统，数据科学更偏数据治理、分析建模和业务决策，两者交叉但能力重心不同。"
+  },
+  {
+    "slug": "embodied-intelligence-vs-robotics-engineering",
+    "left": "embodied-intelligence",
+    "right": "robotics-engineering",
+    "title": "具身智能 vs 机器人工程",
+    "description": "具身智能更强调AI与物理世界交互，机器人工程更强调机器人硬件、控制和系统集成。"
+  }
+]

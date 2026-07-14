@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-06-11T09:47:03.520057+00:00",
+  "applied": true,
+  "inputs": {
+    "major_catalog_2026": {
+      "path": "raw\\official-attachments\\moe-2026\\undergraduate-major-catalog-2026.pdf",
+      "sha256": "a1903c5da16009cbd660e74d0b51feb21d28cb0200780579f5633a7d2be5bc2c",
+      "source_url": "https://www.zjzs.net/art/2026/4/28/art_320_12225.html"
+    },
+    "university_list_2025": {
+      "path": "raw\\official-attachments\\moe-2025\\national-regular-universities-2025.xls",
+      "sha256": "fa1980e0f0f9efa2d61960eb155a3d529f1321d8c9eaa7314de510d9df45e33e",
+      "source_url": "http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/W020250627301230138068.xls"
+    },
+    "zhejiang_admission_scores": [
+      {
+        "year": 2025,
+        "batch": "普通类第一段",
+        "path": "raw\\official-attachments\\zhejiang-2025\\zhejiang-2025-common-first-section.xls",
+        "sha256": "875d344e0b163a19796add0c071dbe2d1d832183b8b797b8063c166809fe7e47",
+        "source_url": "https://www.zjzs.net/art/2025/7/21/art_45_11467.html",
+        "rows": 17890
+      },
+      {
+        "year": 2025,
+        "batch": "普通类第二段",
+        "path": "raw\\official-attachments\\zhejiang-2025\\zhejiang-2025-common-second-section.xls",
+        "sha256": "5a7a6b72a357e80c77676b7a0c9920778ac4f235cc6e015cf8eccf1f461d9ebc",
+        "source_url": "https://www.zjzs.net/art/2025/7/30/art_45_11488.html",
+        "rows": 7096
+      },
+      {
+        "year": 2024,
+        "batch": "普通类第一段",
+        "path": "raw\\official-attachments\\zhejiang-2024\\zhejiang-2024-common-first-section.xls",
+        "sha256": "66745bfa9d7d06a9a9a66a62cca2087ab1ea14c49cd46d1a551b5abbd56adad7",
+        "source_url": "https://www.zjzs.net/art/2024/7/21/art_45_9899.html",
+        "rows": 17241
+      },
+      {
+        "year": 2024,
+        "batch": "普通类第二段",
+        "path": "raw\\official-attachments\\zhejiang-2024\\zhejiang-2024-common-second-section.xls",
+        "sha256": "2d1a2273493692a7e7ba7119aed81c4cafe5301077b6b251515403153ffc8ed8",
+        "source_url": "https://www.zjzs.net/art/2024/7/30/art_45_10143.html",
+        "rows": 6990
+      }
+    ]
+  },
+  "outputs": [
+    {
+      "type": "majors",
+      "count": 883,
+      "path": "data/majors.json"
+    },
+    {
+      "type": "universities",
+      "count": 2977,
+      "path": "data/universities.json"
+    },
+    {
+      "type": "admission_scores",
+      "count": 49217,
+      "path": "data/admission_scores.json"
+    }
+  ]
+}

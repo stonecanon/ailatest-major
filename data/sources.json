@@ -1,0 +1,444 @@
+[
+  {
+    "id": "moe-undergraduate-catalog-2026",
+    "name": "教育部《普通高等学校本科专业目录（2026年）》",
+    "publisher": "中华人民共和国教育部",
+    "url": "https://gaokao.chsi.com.cn/gkxx/zcdh/202604/20260428/2293468784.html",
+    "priority": 1,
+    "fields": [
+      "专业代码",
+      "专业名称",
+      "学科门类",
+      "专业类",
+      "特设专业T",
+      "国家控制布点专业K"
+    ],
+    "ingestion_policy": "从教育部正式附件或人工核验后的结构化表导入；不得从商业志愿填报库反向抓取。",
+    "notes": "2026版目录共涵盖13个门类、92个专业类、883种专业。目录每年更新，构建脚本不假定永久不变。"
+  },
+  {
+    "id": "moe-university-list-query",
+    "name": "教育部全国高等学校名单查询 / 全国高等学校名单",
+    "publisher": "中华人民共和国教育部",
+    "url": "https://hudong.moe.gov.cn/qggxmd/",
+    "priority": 1,
+    "fields": [
+      "学校名称",
+      "学校标识码",
+      "主管部门",
+      "所在地",
+      "办学层次",
+      "备注"
+    ],
+    "ingestion_policy": "优先使用教育部全国高校名单查询入口或教育部正式附件；如原附件不可访问，可用阳光高考院校库交叉核验，不以维基百科作为主数据源。",
+    "notes": "2024年教育部公布全国高等学校3117所；2025年公开信息显示全国高等学校3167所。导入时必须记录版本日期。"
+  },
+  {
+    "id": "moe-double-first-class-2022",
+    "name": "教育部等三部门：第二轮“双一流”建设高校及建设学科名单",
+    "publisher": "教育部、财政部、国家发展改革委",
+    "url": "https://dxs.moe.gov.cn/zx/a/jj/220215/1747412.shtml",
+    "priority": 1,
+    "fields": [
+      "第二轮“双一流”建设高校",
+      "第二轮“双一流”建设学科",
+      "首轮A类/B类历史分类备注"
+    ],
+    "ingestion_policy": "下载教育部公告附件并结构化为高校层面和学科层面两个字段；首轮A类/B类只作为历史分类，不作为第二轮现行等级。",
+    "notes": "2022年第二轮名单共147所建设高校。教育部有关负责人说明，第二轮不再区分一流大学建设高校和一流学科建设高校，也不再区分A类/B类。"
+  },
+  {
+    "id": "moe-fourth-discipline-evaluation",
+    "name": "教育部学位中心：全国第四轮学科评估结果",
+    "publisher": "教育部学位与研究生教育发展中心",
+    "url": "https://www.cdgdc.edu.cn/dslxkpgjggb/",
+    "priority": 2,
+    "fields": [
+      "一级学科代码",
+      "一级学科名称",
+      "参评单位",
+      "评估结果A+/A/A-/B+等",
+      "关联本科专业"
+    ],
+    "ingestion_policy": "优先使用教育部学位中心第四轮学科评估公开页；只把结果作为一级学科实力参考，不写成本科专业排名或录取难度排名。第五轮未统一公开的汇总只可作为人工核验线索，不进入默认排名。",
+    "notes": "第四轮评估于2016年在95个一级学科范围开展，按分档方式公布。专业页展示的是“相关学科强校”，正式填报仍需看本科专业设置、招生计划、培养方案和历年位次。"
+  },
+  {
+    "id": "public-university-rankings",
+    "name": "公开大学排名参考：软科、QS、THE、U.S. News",
+    "publisher": "ShanghaiRanking Consultancy, QS Quacquarelli Symonds, Times Higher Education, U.S. News & World Report",
+    "url": "https://www.usnews.com/education/best-global-universities/china",
+    "priority": 4,
+    "fields": [
+      "软科中国大学排名",
+      "QS世界大学排名",
+      "THE世界/中国大学排名",
+      "U.S. News Best Global Universities",
+      "公开榜单来源链接"
+    ],
+    "ingestion_policy": "只使用公开可核验的头部排名信号辅助大学库排序，不整表复刻第三方排名，不把排名当作录取难度、专业实力或志愿推荐结论。",
+    "notes": "已同步 U.S. News Best Global Universities 2025-2026 中国高校公开排名信号；不同榜单指标差异很大。页面排序优先解决“不要按拼音浏览”的体验问题，正式报考仍需结合专业、城市、招生计划、位次、就业质量报告和学校政策。"
+  },
+  {
+    "id": "chsi-major-knowledge",
+    "name": "阳光高考专业知识库",
+    "publisher": "教育部高校学生司指导，学信网/阳光高考平台",
+    "url": "https://gaokao.chsi.com.cn/zyk/zybk/",
+    "priority": 2,
+    "fields": [
+      "专业介绍",
+      "专业人数规模",
+      "就业率",
+      "考研方向",
+      "专业点分布",
+      "开设院校"
+    ],
+    "ingestion_policy": "优先人工核验和链接引用；批量采集必须遵守网站规则、robots和授权边界。",
+    "notes": "页面明确提供本科/高职专业查询、专业介绍、就业率、考研方向、专业点分布等信息。"
+  },
+  {
+    "id": "chsi-university-database",
+    "name": "阳光高考院校信息库",
+    "publisher": "学信网/阳光高考平台",
+    "url": "https://gaokao.chsi.com.cn/sch/",
+    "priority": 2,
+    "fields": [
+      "院校所在地",
+      "主管部门类别",
+      "办学类型",
+      "办学层次",
+      "院校分类"
+    ],
+    "ingestion_policy": "作为高校信息交叉核验来源，不替代教育部名单主键。",
+    "notes": "用于补充查询入口和标签。"
+  },
+  {
+    "id": "chsi-admission-charters-zhejiang-undergraduate",
+    "name": "阳光高考招生章程核验入口（浙江本科样例）",
+    "publisher": "学信网/阳光高考平台",
+    "url": "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--method-index,ssdm-33,bm-11,lb-1.dhtml",
+    "priority": 2,
+    "fields": [
+      "学校招生章程",
+      "招生专业",
+      "学费",
+      "学制",
+      "外语要求",
+      "体检限制",
+      "专业备注"
+    ],
+    "ingestion_policy": "作为招生章程的人工核验和链接入口；批量采集必须遵守网站规则、robots和授权边界。先记录入口和学校招生官网，不做灰色爬取。",
+    "notes": "该入口适合核验招生章程，不是教育部全国高校基础名单主表；具体省份和院校需要按页面筛选参数或站内查询复核。"
+  },
+  {
+    "id": "moe-university-list-2024-mirror",
+    "name": "教育部来源：2024年全国高等学校名单备选公开页",
+    "publisher": "教育部来源转载页/中国教育在线等",
+    "url": "https://gaokao.eol.cn/daxue/zixun/202406/t20240621_2618168.shtml",
+    "priority": 2,
+    "fields": [
+      "学校名称",
+      "学校标识码",
+      "主管部门",
+      "所在地",
+      "办学层次",
+      "备注"
+    ],
+    "ingestion_policy": "仅在教育部原附件或查询入口不可访问时作备选核验；正式入库仍需标明教育部名单版本和备选页面URL。",
+    "notes": "该页展示2024年全国普通高等学校名单表格字段，来源标注为教育部。"
+  },
+  {
+    "id": "provincial-exam-authorities",
+    "name": "省教育考试院公开数据",
+    "publisher": "各省教育考试院",
+    "url": "",
+    "priority": 3,
+    "fields": [
+      "一分一段表",
+      "投档线",
+      "录取分数线",
+      "招生计划"
+    ],
+    "ingestion_policy": "优先接入浙江、山东、广东、上海，再扩展江苏、河南、四川；只导入公开发布文件并保留下载URL、发布日期和版本。",
+    "notes": "必须区分专业级投档、院校专业组投档和学校级投档。页面必须展示为历史参考区间，不承诺录取概率。"
+  },
+  {
+    "id": "zhejiang-2025-major-rank-lines",
+    "name": "浙江省2025年普通高校招生普通类第一段平行投档分数线表",
+    "publisher": "浙江省教育考试院",
+    "url": "https://www.zjzs.net/art/2025/7/21/art_45_11467.html",
+    "priority": 3,
+    "data_grain": "major",
+    "fields": [
+      "院校",
+      "专业/专业类",
+      "投档分",
+      "位次号"
+    ],
+    "ingestion_policy": "下载官方XLS附件，按专业级投档数据导入admission_scores；保留页面URL、附件文件名、发布时间和文件哈希。",
+    "notes": "浙江按专业平行志愿投档，适合做专业+院校+位次排序的数据源。"
+  },
+  {
+    "id": "shandong-2025-major-rank-lines",
+    "name": "山东省2025年普通类常规批第1次志愿投档情况表",
+    "publisher": "山东省教育招生考试院",
+    "url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6996",
+    "priority": 3,
+    "data_grain": "major",
+    "fields": [
+      "院校",
+      "专业/专业类",
+      "计划数",
+      "投档最低位次",
+      "投档最低分"
+    ],
+    "ingestion_policy": "下载官方XLS附件，内部结构化导入并保留来源；页面只展示必要字段、来源链接和历史参考说明，不原样重发布整表。",
+    "notes": "山东页面声明未经授权不得复制、转载、建立镜像；不能做整表搬运或附件再分发。"
+  },
+  {
+    "id": "guangdong-2025-major-group-rank-lines",
+    "name": "广东省2025年普通高考本科批次投档情况",
+    "publisher": "广东省教育考试院",
+    "url": "https://eea.gd.gov.cn/ptgk/content/post_4746781.html",
+    "priority": 3,
+    "data_grain": "university_major_group",
+    "fields": [
+      "院校代码",
+      "院校名称",
+      "专业组代码",
+      "计划数",
+      "投档人数",
+      "投档最低分",
+      "投档最低排位"
+    ],
+    "ingestion_policy": "下载官方PDF附件，按院校专业组级别导入；不得标注为单专业最低位次。",
+    "notes": "广东投档单位是院校专业组，适合做专业组参考和风险提示，不适合直接生成单专业位次。"
+  },
+  {
+    "id": "shanghai-2025-major-group-rank-lines",
+    "name": "上海市2025年本科普通批次平行志愿院校专业组投档分数线",
+    "publisher": "上海市教育考试院",
+    "url": "https://www.shmeea.edu.cn/download/20250719/186.pdf",
+    "priority": 3,
+    "data_grain": "university_major_group",
+    "fields": [
+      "院校专业组代码",
+      "院校专业组名称",
+      "投档线",
+      "末位投档考生对应成绩"
+    ],
+    "ingestion_policy": "下载官方PDF附件，按院校专业组级别导入；对580分及以上脱敏数据只保留原始表述，不推断具体位次。",
+    "notes": "上海公开的是院校专业组投档线，且部分高分段脱敏，页面必须标注为粗粒度参考。"
+  },
+  {
+    "id": "career-public-references",
+    "name": "就业与职业公开参考",
+    "publisher": "国家统计局、人社部、高校就业质量报告等",
+    "url": "",
+    "priority": 4,
+    "fields": [
+      "行业平均工资",
+      "职业分类",
+      "就业方向",
+      "深造方向",
+      "风险提示"
+    ],
+    "ingestion_policy": "薪资只做区间和趋势，不做精确到专业的月薪承诺；商业报告仅可作人工参考，不直接抓取原文。",
+    "notes": "职业标签需要保留来源说明。"
+  },
+  {
+    "id": "national-civil-service-position-tables",
+    "name": "中央机关及其直属机构考试录用公务员招考简章 / 职位表",
+    "publisher": "国家公务员局",
+    "url": "https://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/download/gkdownloads.html",
+    "priority": 3,
+    "fields": [
+      "招录机关",
+      "职位名称",
+      "招考人数",
+      "专业要求",
+      "学历要求",
+      "政治面貌",
+      "基层工作最低年限"
+    ],
+    "ingestion_policy": "优先使用国家公务员局官方职位表做岗位专业匹配；公开媒体、知乎和机构文章只能作为人工讨论参考，不能替代职位表统计。",
+    "notes": "考公专题只做专业规划和岗位池提醒，不承诺上岸概率。每年国考、省考、事业单位专业要求都会变化，应按目标年份和目标省份复核。"
+  },
+  {
+    "id": "zhangxuefeng-skill-public-framework",
+    "name": "GitHub：ZhangXueFeng-skill 公开观点与决策框架整理",
+    "publisher": "a18515373115-droid / GitHub",
+    "url": "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+    "priority": 5,
+    "fields": [
+      "就业倒推法",
+      "中位数原则",
+      "城市优先原则",
+      "家庭背景分流",
+      "不可替代性检验",
+      "数据来源标注规则"
+    ],
+    "ingestion_policy": "仅作为公开观点和决策检查框架参考，不作为录取位次、就业率、薪资、院校实力等事实数据来源；不复刻直播、付费课程或未授权内容。",
+    "notes": "该仓库标注 MIT license，页面使用时必须说明非官方、非本人授权点评；所有事实字段仍需回到教育部、阳光高考、省考试院、高校官网和就业质量报告核验。"
+  },
+  {
+    "id": "elon-musk-skill-public-framework",
+    "name": "GitHub：elon-musk-skill 公开人物观点与工程决策框架整理",
+    "publisher": "alchaincyf / GitHub",
+    "url": "https://github.com/alchaincyf/elon-musk-skill",
+    "priority": 5,
+    "fields": [
+      "第一性原理",
+      "渐近极限法",
+      "五步算法",
+      "垂直整合",
+      "快速迭代",
+      "物理世界与工程实践"
+    ],
+    "ingestion_policy": "仅作为公开人物观点和工程决策框架参考，不作为高校、专业、就业、薪资或录取事实数据来源；不写成马斯克本人对中国本科专业的报考推荐。",
+    "notes": "该仓库标注 MIT license，README 声明基于传记、播客、工厂参观、X/Twitter、法庭证词、SEC 文件等公开材料整理；页面使用时必须保留来源性质和适用边界。"
+  },
+  {
+    "id": "hong-kong-ugc-funded-universities",
+    "name": "香港大学教育资助委员会：教资会资助大学名单",
+    "publisher": "香港大学教育资助委员会",
+    "url": "https://www.ugc.edu.hk/big5/ugc/site/fund_inst.html",
+    "priority": 2,
+    "fields": [
+      "香港教资会资助大学",
+      "院校英文简称",
+      "院校官网入口"
+    ],
+    "ingestion_policy": "用于核验香港八所教资会资助大学基础名单；不把港澳院校混入教育部全国普通高校名单学校标识码口径。",
+    "notes": "香港高校内地招生方式、申请截止日期、面试、英语要求、学费和奖学金必须继续回到学校当年招生官网和阳光高考港澳指南核验。"
+  },
+  {
+    "id": "macao-higher-education-institutions",
+    "name": "澳门教育及青年发展局：澳门高等院校链接",
+    "publisher": "澳门特别行政区政府教育及青年发展局",
+    "url": "https://portal.dsedj.gov.mo/webdsejspace/internet/Inter_main_page.jsp?id=80123",
+    "priority": 2,
+    "fields": [
+      "澳门高等院校",
+      "学校官网入口"
+    ],
+    "ingestion_policy": "用于核验澳门高校基础名单和官网入口；不把港澳院校混入教育部全国普通高校名单学校标识码口径。",
+    "notes": "澳门高校面向内地招生的申请入口、专业、语言要求、学费奖学金和录取标准必须以学校当年招生官网为准。"
+  },
+  {
+    "id": "chsi-hk-macao-admissions-2026",
+    "name": "阳光高考：2026年港澳高校内地招生报考指南",
+    "publisher": "阳光高考 / 学信网",
+    "url": "https://gaokao.chsi.com.cn/gkzt/gagx2026",
+    "priority": 2,
+    "fields": [
+      "港澳高校内地招生方式",
+      "统招/独立招生说明",
+      "报名和录取提示"
+    ],
+    "ingestion_policy": "作为港澳高校面向内地招生政策入口，不替代学校招生官网；只展示政策入口和风险提示，不承诺录取概率。",
+    "notes": "港澳高校通常存在独立申请、提前批统招、英语和面试、学费奖学金等差异，正式报考必须逐校核验。"
+  },
+  {
+    "id": "wechat-zhangxuefeng-volunteer-framework",
+    "name": "微信公众号：张雪峰式志愿填报观点整理（AI锐评参考）",
+    "publisher": "杭城升学驿站、老张闲书、泛舟晨海、王老师高考说 / 微信公众号",
+    "url": "https://mp.weixin.qq.com/s/vVOGJnFcVNSmJnNDKvgDfQ",
+    "priority": 5,
+    "fields": [
+      "就业倒推",
+      "城市平台",
+      "专业壁垒",
+      "家庭条件",
+      "考公岗位池",
+      "医学和师范周期",
+      "调剂风险",
+      "普通家庭试错成本"
+    ],
+    "ingestion_policy": "仅提炼公开文章中的报志愿提问框架和风险提醒，用于AI锐评；不复制原文，不作为录取位次、就业率、薪资、院校实力等事实数据来源。",
+    "notes": "页面使用时必须标注为非官方、非本人授权点评。事实字段仍以教育部、阳光高考、省考试院、高校招生网、学校官网和就业质量报告为准。相关原文入口包括 https://mp.weixin.qq.com/s/eqn4BLI4CSlwn53KstDeUQ 、https://mp.weixin.qq.com/s/vVOGJnFcVNSmJnNDKvgDfQ 、https://mp.weixin.qq.com/s/pkA7TFC_jowcvVVfzxlrDw 、https://mp.weixin.qq.com/s/wDNzBlQFc3SLxeQFltRuDg 。"
+  },
+  {
+    "id": "ncss-employment-quality-reports-2024",
+    "name": "NCSS 2024 undergraduate employment quality report index",
+    "publisher": "National College Student Employment Service Platform",
+    "url": "https://www.ncss.cn/ncss/zt/jyzlbg2024.shtml",
+    "priority": 3,
+    "fields": [
+      "university",
+      "province",
+      "2024 employment quality report link"
+    ],
+    "ingestion_policy": "Use as an index of public report entrances only. The site stores school names and links, and does not republish PDF/report body content.",
+    "notes": "Imported 140 undergraduate institution report links; 137 are directly usable URLs and 3 are masked on the source page."
+  },
+  {
+    "id": "employment-quality-reports-2025-public-index",
+    "name": "2025 employment quality report public entrances",
+    "publisher": "University official sites and public education media indexes",
+    "url": "https://news.eol.cn/dongtai/jiuye/index_5.shtml",
+    "priority": 3,
+    "fields": [
+      "university",
+      "2025 cohort",
+      "employment quality report entrance",
+      "source note"
+    ],
+    "ingestion_policy": "Prefer university official pages when found; otherwise use public education media index links as entrance references. Do not copy report text.",
+    "notes": "Current MVP imports found 2025 entrances for Tsinghua University, Ningbo University, Hangzhou Dianzi University, Tongji University, Beijing University of Posts and Telecommunications, ShanghaiTech University, Xi'an Jiaotong University and selected joint/cooperative universities."
+  },
+  {
+    "id": "civil-service-positions-2026",
+    "name": "2026 national civil service position tables",
+    "publisher": "National Civil Service Administration public position tables",
+    "url": "http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articlelist.html?id=0000000062b7b2b60162bccf03930009&eid=0000000062b7b2b60162bcd0591c000b",
+    "priority": 3,
+    "fields": [
+      "department",
+      "position",
+      "plan count",
+      "education",
+      "degree",
+      "specialty requirement",
+      "work location",
+      "remarks"
+    ],
+    "ingestion_policy": "Use user-provided public Excel position tables to build a major-to-position rough matching index. Matching is advisory only and does not imply qualification-review eligibility.",
+    "notes": "Imported 2026 main recruitment and supplemental recruitment tables into an independent civil-service dataset."
+  },
+  {
+    "id": "zhejiang-civil-service-positions-2023-2025",
+    "name": "Zhejiang civil service position tables 2023-2025",
+    "publisher": "Zhejiang provincial civil service recruitment public position tables",
+    "url": "local user-provided public Excel files",
+    "priority": 3,
+    "fields": [
+      "year",
+      "unit",
+      "position",
+      "plan count",
+      "education",
+      "degree",
+      "specialty requirement",
+      "position category",
+      "remarks"
+    ],
+    "ingestion_policy": "Use user-provided Zhejiang public Excel position tables to build a provincial major-to-position rough matching index. Matching is advisory only and does not imply qualification-review eligibility.",
+    "notes": "Imported 2023, 2024 and 2025 Zhejiang province position tables into the independent civil-service dataset."
+  },
+  {
+    "id": "recommendation-eligibility-433-2025",
+    "name": "433 universities with postgraduate recommendation eligibility, including 67 added in 2025",
+    "publisher": "Public summary based on Ministry of Education filing notice and CHSI recommendation service system",
+    "url": "https://www.gaokzx.com/gk/gaokao/146800.html",
+    "priority": 3,
+    "fields": [
+      "university",
+      "province",
+      "recommendation eligibility",
+      "2025 newly added flag"
+    ],
+    "ingestion_policy": "Use as school-level eligibility reference only. A school having recommendation eligibility does not mean an individual student has guaranteed recommendation eligibility.",
+    "notes": "The final recommendation student list, admission list and registration are subject to CHSI recommendation service system filing and university annual public notices."
+  }
+]

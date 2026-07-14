@@ -1,0 +1,29 @@
+{
+  "name": "ailatest-major",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs dist 4173",
+    "check": "node scripts/check-data.mjs",
+    "import:public": "node scripts/import-public-data.mjs",
+    "snapshot:source": "node scripts/snapshot-source.mjs",
+    "indexnow:dry-run": "node scripts/submit-indexnow.mjs",
+    "indexnow:submit": "node scripts/submit-indexnow.mjs --submit",
+    "verify:launch": "node scripts/verify-launch.mjs",
+    "import:crs": "node scripts/import-crs-cooperation.mjs",
+    "import:baike-intros": "node scripts/import-baike-university-intros.mjs",
+    "import:ncss-employment": "node scripts/import-ncss-employment-reports.mjs",
+    "download:employment": "node scripts/download-employment-report-artifacts.mjs",
+    "extract:employment": "node scripts/extract-employment-outcomes.mjs",
+    "repair:civil-service": "node scripts/repair-civil-service-exclusions.mjs",
+    "enrich:mvp": "node scripts/mvp-enrich-data.mjs",
+    "audit:mvp": "node scripts/audit-mvp.mjs",
+    "deploy:preview": "npm run check && npm run build && npm run verify:launch && npx wrangler pages deploy dist --project-name ailatest-major",
+    "deploy:production": "npm run check && npm run build && npm run verify:launch && npx wrangler pages deploy dist --project-name ailatest-major --branch production"
+  },
+  "devDependencies": {
+    "wrangler": "^4.98.0"
+  }
+}

@@ -1,0 +1,526 @@
+[
+  {
+    "slug": "architecture",
+    "civil_service_level": "中等",
+    "civil_service_note": "住建、自然资源、城市管理等岗位有相关性，但岗位数量受地区和年份影响。",
+    "work_scene": "学习期作业强度高，工作后常见设计汇报、现场踏勘、甲方沟通和反复修改。",
+    "gender_note": "女生和男生都可以学，关键是能否接受长期画图建模、熬方案和现场沟通；不要把“下现场”简单等同于不能报。",
+    "family_decision": "适合愿意做作品集、能长期积累审美和工程判断的学生；如果只追求稳定轻松，要谨慎。",
+    "public_opinion_note": "公众讨论常提醒建筑类回报周期长、平台和城市很重要，可作为报考前的风险清单。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "urban-rural-planning",
+    "civil_service_level": "较高",
+    "civil_service_note": "自然资源、住建、发改、城市管理等方向相关性较高，仍需看当年职位表专业目录。",
+    "work_scene": "常见调研、汇报、政策文本、空间分析和多方协调，不只是画城市蓝图。",
+    "gender_note": "不按性别区分，适合愿意做公共事务、文字图面表达和沟通协调的学生。",
+    "family_decision": "如果目标是体制内或城市治理方向，可以重点关注；如果排斥政策和汇报，体验会比较吃力。",
+    "public_opinion_note": "张雪峰式框架会强调就业出口和城市资源，本专业更应结合自然资源/住建系统岗位看。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "computer-science-and-technology",
+    "civil_service_level": "中等偏高",
+    "civil_service_note": "网信、公安技术、政务信息化、事业单位信息中心等岗位常见计算机类需求。",
+    "work_scene": "企业端更多是写代码、排错、项目交付和持续学习；体制内偏信息化建设和系统运维。",
+    "gender_note": "女生当然可以学，核心看数学逻辑、编程耐心和项目训练；行业里的加班与年龄压力需要提前了解。",
+    "family_decision": "普通家庭常把计算机当作向上流动专业，但不能只看热度，要看学校层次、城市实习和个人代码能力。",
+    "public_opinion_note": "公开整理的张雪峰观点常把计算机列为高性价比方向，同时提醒互联网竞争和35岁压力。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom",
+      "https://www.gk100.com/read_47572502.htm"
+    ]
+  },
+  {
+    "slug": "software-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "信息系统建设、数字政府、事业单位信息中心等岗位可能相关，岗位数量看地区。",
+    "work_scene": "更偏工程交付、团队协作、测试迭代和产品落地，项目实践比只刷理论更重要。",
+    "gender_note": "不分男女，适合愿意长期写代码、沟通需求、做项目的人；不喜欢持续迭代会很累。",
+    "family_decision": "看学费、课程项目、实习城市和学校软件工程训练强度，避免只看专业名。",
+    "public_opinion_note": "公众观点通常把软件看作就业导向强的专业，但也提醒竞争来自作品和能力。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "electrical-engineering-and-automation",
+    "civil_service_level": "中等",
+    "civil_service_note": "能源、电力、市场监管、事业单位技术岗可能相关，但国网、发电和装备企业也是主要方向。",
+    "work_scene": "课程硬，涉及电路、控制、电力系统；部分岗位会有现场、倒班或工程项目。",
+    "gender_note": "女生可以学，但要提前了解电力现场、设备调试、出差和基层岗位安排；适不适合看职业偏好。",
+    "family_decision": "重视稳定行业的家庭可重点关注，选校时看电气学科实力、国网校招和地方产业。",
+    "public_opinion_note": "公开整理中电气常被视为稳定工科方向，原因在电网和能源基础设施需求。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "clinical-medicine",
+    "civil_service_level": "中等",
+    "civil_service_note": "卫健系统、医疗事业单位相关，但医学主路径更依赖执业资格、规培和医院平台。",
+    "work_scene": "培养周期长、考试多、责任重，临床环境压力和夜班都要提前了解。",
+    "gender_note": "男女都适合报，关键是责任心、抗压、长期学习和能否接受真实病痛场景。",
+    "family_decision": "不要只把医学理解为稳定，要把学制、读研、规培、城市医院平台和家庭支持一起算。",
+    "public_opinion_note": "张雪峰式公开讨论常把医学列为长期主义专业，优点是越老越吃经验，代价是周期长。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "law",
+    "civil_service_level": "较高",
+    "civil_service_note": "公检法、纪检监察、行政执法、法务合规等岗位常见法学需求，但竞争强。",
+    "work_scene": "大量阅读、写作、论证和考试，法考与实习经历会明显影响出口。",
+    "gender_note": "不按性别限制，适合语言逻辑强、愿意长期阅读和承担表达压力的学生。",
+    "family_decision": "想考公、法检、律师或企业合规都可关注，但要接受法考门槛和强竞争。",
+    "public_opinion_note": "公开整理的张雪峰观点常把法学列为文科有门槛、考公适配度高的方向。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom/blob/main/docs/zhangxuefeng/zhuanye.md",
+      "https://www.gk100.com/read_47572502.htm"
+    ]
+  },
+  {
+    "slug": "accounting",
+    "civil_service_level": "较高",
+    "civil_service_note": "财政、税务、审计、机关事业单位财务岗相关性高，但热门岗位竞争明显。",
+    "work_scene": "规则、凭证、报表、审计、税务和内控较多，细致和证书积累很重要。",
+    "gender_note": "财务和会计相关班级、岗位中女生比例常见较高，但是否适合仍看细致程度、规则意识和抗重复能力。",
+    "family_decision": "适合重视稳定、愿意考证和做规范流程的学生；如果讨厌细节和制度，会比较痛苦。",
+    "public_opinion_note": "公开讨论常把财会和考公、企业刚需联系在一起，但不代表自动高薪或自动上岸。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom",
+      "https://www.gk100.com/read_47572502.htm"
+    ]
+  },
+  {
+    "slug": "artificial-intelligence",
+    "civil_service_level": "中等",
+    "civil_service_note": "网信、数据治理、智能化建设岗位可能相关，但更多机会在企业研发和行业应用。",
+    "work_scene": "数学、编程、算法、数据和工程落地都要学，专业热但淘汰也快。",
+    "gender_note": "女生男生都可以报，关键是数学和编程基础；不要因为专业热门就忽略难度。",
+    "family_decision": "优先看学校是否有计算机/自动化/数学底座、算力平台、科研项目和真实产业合作。",
+    "public_opinion_note": "公众人物关于AI的观点更适合转化为检查清单：数学、物理、工程和真实产业知识不能缺。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://www.entrepreneur.com/business-news/nvidia-ceo-says-he-would-major-in-the-physical-sciences/494829"
+    ]
+  },
+  {
+    "slug": "data-science-and-big-data-technology",
+    "civil_service_level": "中等",
+    "civil_service_note": "统计、数据治理、数字政府和信息化岗位有相关性，专业名称识别需看职位表。",
+    "work_scene": "常见数据清洗、建模、SQL/Python、业务分析和平台协作。",
+    "gender_note": "不按性别判断，适合数字敏感、愿意写代码又愿意理解业务的人。",
+    "family_decision": "看课程里统计、数据库、机器学习和项目训练是否扎实，避免只学工具皮毛。",
+    "public_opinion_note": "公开观点常把数据类看作就业面较宽方向，但核心仍是数学统计和工程能力。",
+    "source_urls": [
+      "https://www.gk100.com/read_47572502.htm",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "robotics-engineering",
+    "civil_service_level": "偏低到中等",
+    "civil_service_note": "更偏产业工程岗位，少量装备制造、市场监管、科研事业单位相关。",
+    "work_scene": "软硬结合、实验调试、控制、机械电子和现场测试较多。",
+    "gender_note": "女生可以学，但要了解实验室、产线、设备调试和出差场景；喜欢动手会更适配。",
+    "family_decision": "适合喜欢机器人和工程实践的学生；如果只想做纯软件，应和计算机/软件再比较。",
+    "public_opinion_note": "AI时代机器人方向热度高，但公众观点也强调物理世界和工程落地比概念更重要。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://www.entrepreneur.com/business-news/nvidia-ceo-says-he-would-major-in-the-physical-sciences/494829",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "intelligent-science-and-technology",
+    "civil_service_level": "中等",
+    "civil_service_note": "数字化、智能化建设岗位可能相关，但需看职位表是否认可专业名称。",
+    "work_scene": "跨计算机、AI、数据、机器人或人机交互，方向宽但也容易泛。",
+    "gender_note": "不按性别区分，适合能接受交叉学习和方向变化的学生。",
+    "family_decision": "重点核对培养方案，确认不是只有热门名称而缺少扎实课程。",
+    "public_opinion_note": "公众观点可提醒家长：新专业要看学校底座和真实项目，不要只追风口。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "cyberspace-security",
+    "civil_service_level": "较高",
+    "civil_service_note": "网信、公安技术、政务安全、数据安全和涉密单位相关性较高。",
+    "work_scene": "网络协议、系统安全、攻防演练、合规和应急响应并重。",
+    "gender_note": "男女都可以学，适合规则意识强、逻辑细致、能接受持续跟漏洞和安全事件的人。",
+    "family_decision": "如果目标是政企安全或体制内技术岗，可以重点关注；同时要看学校实践平台。",
+    "public_opinion_note": "公开考公专业清单常把计算机/网络安全列为相关方向，但岗位限制每年变化。",
+    "source_urls": [
+      "https://www.gk100.com/read_47572502.htm",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "intelligent-manufacturing-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "工信、市场监管、装备制造相关事业单位可能适配。",
+    "work_scene": "工厂、设备、工艺、自动化和工业软件场景多，现场问题解决能力重要。",
+    "gender_note": "女生可以报，但要了解制造现场、设备调试和生产节奏；不喜欢现场要谨慎。",
+    "family_decision": "适合愿意进先进制造、新能源、装备和工业数字化方向的学生。",
+    "public_opinion_note": "张雪峰式框架会提醒工科要看就业场景，本专业不能只听“智能”两个字。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "embodied-intelligence",
+    "civil_service_level": "偏低到中等",
+    "civil_service_note": "主要面向产业研发和科研，少量智能装备、科技管理岗位相关。",
+    "work_scene": "AI、机器人、控制、传感器和工程实验交叉，专业新且不确定性较高。",
+    "gender_note": "不按性别区分，适合能接受硬件、调试、科研探索和长周期学习的人。",
+    "family_decision": "新专业要优先看学校平台、导师方向和课程底座，不建议只因概念热报考。",
+    "public_opinion_note": "黄仁勋等公开讨论强调AI进入物理世界后工程能力更重要，可作为方向启发。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://www.entrepreneur.com/business-news/nvidia-ceo-says-he-would-major-in-the-physical-sciences/494829",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "brain-computer-science-and-technology",
+    "civil_service_level": "偏低到中等",
+    "civil_service_note": "更偏科研、医疗器械和智能医疗产业，卫健科技管理岗位可能相关。",
+    "work_scene": "医学、信号处理、机器学习、实验伦理和科研平台交叉，深造依赖较高。",
+    "gender_note": "不按性别判断，适合愿意跨医学和工程、能接受长周期科研的人。",
+    "family_decision": "如果本科阶段希望快速就业，要谨慎；更适合有深造预期和科研兴趣的学生。",
+    "public_opinion_note": "公众观点对前沿专业通常会提醒“不确定性”，这类专业尤其要看培养方案。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://www.entrepreneur.com/business-news/nvidia-ceo-says-he-would-major-in-the-physical-sciences/494829",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "artificial-intelligence-education",
+    "civil_service_level": "中等",
+    "civil_service_note": "教育局、学校信息化、教育数字化项目可能相关，但需看岗位目录。",
+    "work_scene": "教育理解、AI工具、数据分析、教学设计和产品沟通并重。",
+    "gender_note": "教育相关方向女生比例常见较高，但男生也适合；关键是是否喜欢教育场景和沟通。",
+    "family_decision": "适合想把AI和教育结合的人，不适合只想做纯算法研发的人。",
+    "public_opinion_note": "公众观点可提醒：AI不是替代所有老师，而是改变教学工具和学习分析方式。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "industrial-software",
+    "civil_service_level": "偏低到中等",
+    "civil_service_note": "工信、产业数字化、国企信息化岗位可能相关，主就业面在企业和产业软件。",
+    "work_scene": "既写软件，也要理解制造流程、CAD/CAE/CAM、工业数据和复杂业务系统。",
+    "gender_note": "不按性别限制，适合愿意把软件和工业场景结合的人；排斥制造业知识要谨慎。",
+    "family_decision": "更适合想做长期硬科技软件的人，短期名气不如计算机但产业价值高。",
+    "public_opinion_note": "公开观点常提醒不要只追消费互联网，工业软件属于更长期的国产替代赛道。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "electronic-information-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "工信、通信、市场监管、事业单位技术岗可能相关。",
+    "work_scene": "电路、信号、通信、嵌入式和硬件系统较多，不等同于纯软件。",
+    "gender_note": "女生可以学，但要接受电路实验、硬件调试和工程项目；适合数理基础好的人。",
+    "family_decision": "想进芯片、通信、硬件、智能设备方向可关注，选校要看实验平台。",
+    "public_opinion_note": "公开讨论常把电子信息列为硬科技基础方向，但学习门槛也不低。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "communication-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "通信管理、网信、事业单位信息化、运营商和国企技术岗可能相关。",
+    "work_scene": "信号、网络、无线通信、系统工程和基础设施项目较多。",
+    "gender_note": "不按性别区分，适合能接受数学、信号和工程系统的人。",
+    "family_decision": "要看学校通信学科和当地运营商、设备商、数字基础设施机会。",
+    "public_opinion_note": "公众观点通常把通信看作稳健工科，但要警惕只凭专业名想象互联网岗位。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "microelectronics-science-and-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "工信、科技、知识产权、市场监管等岗位可能相关，主方向仍在半导体产业。",
+    "work_scene": "半导体物理、电路、工艺、测试和科研训练较重，深造价值明显。",
+    "gender_note": "女生男生都可报，关键是能否接受物理、电路和长期硬科技训练。",
+    "family_decision": "适合愿意深耕芯片产业的人；选校要看微电子平台、实验条件和研究生通道。",
+    "public_opinion_note": "公开观点常把芯片列为国家战略方向，但个人回报依赖平台和长期积累。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "automation",
+    "civil_service_level": "中等",
+    "civil_service_note": "工信、市场监管、装备制造和事业单位技术岗可能相关。",
+    "work_scene": "控制、电路、传感器、工业系统和设备调试较多，软硬结合。",
+    "gender_note": "女生可以报，但要提前了解现场调试、设备系统和工程项目，不喜欢动手要谨慎。",
+    "family_decision": "就业面较宽，适合想在电气、机器人、制造、控制和工业软件间保留弹性的人。",
+    "public_opinion_note": "公开整理中自动化常被放在技术类推荐里，但关键是学校工程训练是否扎实。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "internet-of-things-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "智慧城市、政务信息化、网信、应急物联感知岗位可能相关。",
+    "work_scene": "嵌入式、传感器、网络协议、后端平台和设备数据应用交叉。",
+    "gender_note": "不按性别判断，适合愿意软硬结合、做项目集成的人。",
+    "family_decision": "要看学校是否有真实硬件项目，避免只学一点网络加一点应用开发。",
+    "public_opinion_note": "公众观点可提醒：物联网不是单一热门词，而是工程集成能力。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "information-security",
+    "civil_service_level": "较高",
+    "civil_service_note": "网信、公安技术、政务安全、数据安全等岗位相关性较高。",
+    "work_scene": "系统、网络、密码、攻防、合规和安全运营都可能涉及。",
+    "gender_note": "男女都可以学，适合细致、规则意识强、能持续跟踪安全事件的人。",
+    "family_decision": "想兼顾技术就业和体制内技术岗，可以重点关注；学校实践平台很关键。",
+    "public_opinion_note": "公开考公清单常把计算机和安全类放在较高适配方向，但仍需看职位表。",
+    "source_urls": [
+      "https://www.gk100.com/read_47572502.htm",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "mathematics-and-applied-mathematics",
+    "civil_service_level": "中等",
+    "civil_service_note": "统计、教育、数据治理等岗位可能相关，师范与非师范方向差异较大。",
+    "work_scene": "抽象证明、建模、算法、统计和继续深造较多，本科直接就业要靠复合技能。",
+    "gender_note": "不按性别区分，适合真正喜欢数学、能忍受抽象训练的人。",
+    "family_decision": "如果目标是AI、金融量化、统计或教师，建议提前规划辅修/竞赛/编程/师范资格。",
+    "public_opinion_note": "马斯克等公开观点常强调物理和第一性原理；数学是AI和硬科技的底层能力之一。",
+    "source_urls": [
+      "https://www.worldgovernmentssummit.org/observer/articles/detail/this-is-the-subject-elon-musk-says-young-people-need-to-study-to-be-successful-in-the-future",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "statistics",
+    "civil_service_level": "较高",
+    "civil_service_note": "统计、发改、财政、审计、数据治理等岗位可能适配，需看岗位专业目录。",
+    "work_scene": "概率统计、数据分析、模型解释和报告表达并重。",
+    "gender_note": "不按性别区分，适合细致、数学基础较好、愿意用数据解释问题的人。",
+    "family_decision": "考公、读研、数据分析都可走，但要补编程和业务理解，不能只停留在公式。",
+    "public_opinion_note": "公开考公专业清单常把统计、财会、计算机类列为可关注方向。",
+    "source_urls": [
+      "https://www.gk100.com/read_47572502.htm",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "digital-economy",
+    "civil_service_level": "中等偏高",
+    "civil_service_note": "发改、工信、商务、统计和数字政府相关岗位可能适配。",
+    "work_scene": "经济学、产业研究、数据分析、平台经济和政策报告较多。",
+    "gender_note": "不按性别判断，适合既愿意看商业政策、又能接受数据工具的人。",
+    "family_decision": "适合想在经济管理和数字化之间保留弹性的学生，技术深度不如计算机。",
+    "public_opinion_note": "公众观点可提醒：新经管专业要看数据课程和城市产业机会。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "finance",
+    "civil_service_level": "较高",
+    "civil_service_note": "财政、金融监管、审计、税务、国资等方向可能适配，但竞争通常强。",
+    "work_scene": "银行、证券、保险、风控、监管研究和企业财务都有可能，城市和实习资源重要。",
+    "gender_note": "男女都可以报，金融前台岗位更看资源、城市和竞争承受力；不宜只按性别判断。",
+    "family_decision": "普通家庭报金融要谨慎看学校层次、城市、实习和家庭资源，不要只被高薪想象吸引。",
+    "public_opinion_note": "公开整理的张雪峰观点常提醒普通家庭慎选普通院校金融，因为行业资源门槛高。",
+    "source_urls": [
+      "https://github.com/Eric-Yibo-Shen/zhangxuefeng-skillset/blob/main/SKILL.md",
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom"
+    ]
+  },
+  {
+    "slug": "network-engineering",
+    "civil_service_level": "中等偏高",
+    "civil_service_note": "网信、公安信息化、事业单位信息中心等岗位可能相关。",
+    "work_scene": "网络协议、Linux、运维、云平台、安全和故障定位较多。",
+    "gender_note": "不按性别区分，适合能接受排错、值守和基础设施工作的人。",
+    "family_decision": "如果喜欢基础设施和安全，比只做应用开发更适合；要看实训环境。",
+    "public_opinion_note": "公开考公专业清单常把计算机类列为高频方向，网络工程可归入相关技术口径核对。",
+    "source_urls": [
+      "https://www.gk100.com/read_47572502.htm",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "digital-media-technology",
+    "civil_service_level": "中等偏低",
+    "civil_service_note": "政务新媒体、融媒体、信息化岗位可能相关，但岗位数量通常不如法学、汉语言、计算机稳定。",
+    "work_scene": "编程、图形图像、交互、AIGC工具和作品集很重要。",
+    "gender_note": "女生男生都适合，关键是技术和审美都愿意练；只想纯艺术或只想纯技术都要再比较。",
+    "family_decision": "适合愿意用作品说话的人；需要提前积累项目，不适合只靠学历标签。",
+    "public_opinion_note": "公众观点对传媒内容类常提醒AI替代风险，数字媒体技术要靠技术深度拉开差距。",
+    "source_urls": [
+      "https://github.com/Eric-Yibo-Shen/zhangxuefeng-skillset/blob/main/SKILL.md",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "integrated-circuit-design-and-integrated-system",
+    "civil_service_level": "中等",
+    "civil_service_note": "工信、科技、知识产权、市场监管等岗位可能相关，主就业面在半导体产业。",
+    "work_scene": "数字/模拟IC、验证、EDA、芯片测试和电路设计训练较重。",
+    "gender_note": "不按性别区分，适合电路基础好、能接受复杂工程工具的人。",
+    "family_decision": "芯片方向长期价值高，但学习强度大，读研和平台资源很重要。",
+    "public_opinion_note": "公众观点常把芯片视为硬科技赛道，但不能保证短期轻松高薪。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "new-energy-science-and-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "发改、能源、生态环境、工信等岗位可能相关，岗位数量需看地区和年份。",
+    "work_scene": "能源系统、储能、电力、热工、碳管理和项目工程较多。",
+    "gender_note": "女生可以报，但要了解设备、工程现场和能源项目节奏；更适合数理工科接受度高的人。",
+    "family_decision": "适合关注双碳和新能源产业的人，选校要看能源、电气和材料平台。",
+    "public_opinion_note": "公众观点会提醒新能源是趋势，但具体岗位需要看产业链位置和学校资源。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "new-energy-vehicles-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "工信、交通、市场监管等岗位可能相关，主要机会在汽车产业链。",
+    "work_scene": "整车、电池、电机电控、测试验证、智能座舱和充换电场景较多。",
+    "gender_note": "女生可以学，但要了解制造业、测试、产线和工程项目；喜欢汽车技术会更适配。",
+    "family_decision": "适合愿意进入新能源汽车和智能网联产业的人，不适合只想做纯互联网应用。",
+    "public_opinion_note": "AI和新能源车热度高，但公众观点也会强调工程落地和产业资源。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://www.entrepreneur.com/business-news/nvidia-ceo-says-he-would-major-in-the-physical-sciences/494829",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "vehicle-engineering",
+    "civil_service_level": "中等",
+    "civil_service_note": "交通、市场监管、工信等岗位可能相关，具体看职位专业目录。",
+    "work_scene": "车辆系统、机械、控制、测试、制造工艺和智能驾驶测试较多。",
+    "gender_note": "女生可以报，但要了解车企、试验场、生产制造和出差场景；喜欢装备工程更适合。",
+    "family_decision": "如果目标是汽车产业链，可关注；如果只想做软件，要和计算机/自动化比较。",
+    "public_opinion_note": "公众观点会把传统车辆和新能源智能化趋势一起看，学校转型速度很重要。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "measurement-control-technology-and-instruments",
+    "civil_service_level": "中等",
+    "civil_service_note": "市场监管、质检、工信、事业单位设备管理等岗位可能相关。",
+    "work_scene": "传感器、电路、嵌入式、测量系统、实验调试和误差分析较多。",
+    "gender_note": "不按性别区分，适合细致、愿意做硬件实验和工程检测的人。",
+    "family_decision": "就业不一定最显眼，但和智能制造、工业检测、传感器方向连接紧。",
+    "public_opinion_note": "公开工科选择框架会提醒：看得见的热门名称不一定比基础测控更有长期价值。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "oral-medicine",
+    "civil_service_level": "中等",
+    "civil_service_note": "卫健、医保、事业单位医疗岗位可能相关，多数毕业生走医疗机构和执业路径。",
+    "work_scene": "医学基础、精细操作、患者沟通、口腔修复正畸和长期执业训练。",
+    "gender_note": "男女都适合，手部操作、耐心、沟通和规范意识比性别重要。",
+    "family_decision": "关注国家控制布点、学制、执业路径和城市口腔医疗资源，不要只看收入传闻。",
+    "public_opinion_note": "公开整理中口腔常被视为医学里职业边界清晰的方向，但录取分和培养门槛较高。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "pharmacy",
+    "civil_service_level": "中等偏高",
+    "civil_service_note": "药监、市场监管、卫健、医保和检验机构岗位可能相关。",
+    "work_scene": "药物研发、质量控制、药品注册、医院药学、监管检验和化学生物实验。",
+    "gender_note": "药学相关学习和岗位中女生较常见，但适合与否看化学实验、规范流程和长期细致能力。",
+    "family_decision": "不是临床医生路径，适合喜欢医药产业和监管合规的人。",
+    "public_opinion_note": "公开整理中药学常被作为医疗类替代选择讨论，但出口差异很大。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "applied-psychology",
+    "civil_service_level": "中等",
+    "civil_service_note": "教育、司法、社区、公安心理服务等岗位可能相关，但数量和限制差异较大。",
+    "work_scene": "心理测量、统计、访谈、用户研究、学校心理健康和社会服务机构较多。",
+    "gender_note": "心理相关方向女生比例常见较高，但男生也有优势场景；关键是边界感、统计和伦理意识。",
+    "family_decision": "如果以为心理学就是聊天疗愈，要谨慎；正规训练非常重视研究方法和伦理。",
+    "public_opinion_note": "公众观点通常会提醒心理学本科就业不等于心理咨询师，需要深造和资质路径。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "slug": "chinese-language-and-literature",
+    "civil_service_level": "较高",
+    "civil_service_note": "党政机关、事业单位、宣传、文秘、教育等岗位常见相关需求，但竞争也强。",
+    "work_scene": "阅读、写作、材料整理、表达、教师和内容传播方向较多。",
+    "gender_note": "中文、教育、文职方向女生比例常见较高，但男生同样适合；核心是阅读写作和表达稳定性。",
+    "family_decision": "如果目标是考公、教师、编辑或宣传，可重点关注；如果排斥大量阅读写作，不建议硬报。",
+    "public_opinion_note": "公开整理的张雪峰观点常把汉语言文学称为考公优势专业，仍需以职位表为准。",
+    "source_urls": [
+      "https://github.com/dongsheng123132/gaokao-mentor-wisdom/blob/main/docs/zhangxuefeng/zhuanye.md",
+      "https://www.gk100.com/read_47572502.htm"
+    ]
+  },
+  {
+    "slug": "e-commerce",
+    "civil_service_level": "中等",
+    "civil_service_note": "商务、市场监管、数字经济和事业单位信息化岗位可能相关，专业限制需看职位表。",
+    "work_scene": "电商运营、用户增长、数字营销、跨境电商、供应链和数据运营较多。",
+    "gender_note": "电商运营和营销方向女生比例常见不低，但男生也适合；关键是执行、数据和抗指标压力。",
+    "family_decision": "适合愿意做运营和商业复盘的人；不适合只想学纯技术或排斥销售指标的人。",
+    "public_opinion_note": "公众观点通常提醒经管类要看真实技能，电商尤其要用实习和项目证明能力。",
+    "source_urls": [
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  }
+]

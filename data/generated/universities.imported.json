@@ -1,0 +1,46 @@
+[
+  {
+    "id": 2,
+    "moe_code": "4111010003",
+    "slug": "tsinghua-university",
+    "name": "清华大学",
+    "province": "北京",
+    "city": "北京",
+    "level": "本科",
+    "type": "综合类",
+    "ownership": "公办",
+    "authority": "教育部",
+    "tags": [
+      "双一流",
+      "985",
+      "211",
+      "强基计划"
+    ],
+    "website": "https://www.tsinghua.edu.cn/",
+    "admission_site": "https://join-tsinghua.edu.cn/",
+    "description": "清华大学位于北京，是教育部直属高校。页面整理基础标签、招生官网入口和可核验的数据入口。",
+    "source_note": "教育部全国高等学校名单公开字段。"
+  },
+  {
+    "id": 1,
+    "moe_code": "4133010335",
+    "slug": "zhejiang-university",
+    "name": "浙江大学",
+    "province": "浙江",
+    "city": "浙江",
+    "level": "本科",
+    "type": "综合类",
+    "ownership": "公办",
+    "authority": "教育部",
+    "tags": [
+      "双一流",
+      "985",
+      "211",
+      "强基计划"
+    ],
+    "website": "https://www.zju.edu.cn/",
+    "admission_site": "https://zdzsc.zju.edu.cn/",
+    "description": "浙江大学位于杭州，是教育部直属综合性研究型大学。页面整理学校基础信息、招生入口、专业样例和公开来源，方便考生进一步核验。",
+    "source_note": "教育部全国高等学校名单公开字段。"
+  }
+]

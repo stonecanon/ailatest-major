@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-06-11T06:04:54.949Z",
+  "applied": false,
+  "inputs": {
+    "admission_scores": {
+      "path": "imports\\templates\\provincial_major_group_scores.sample.csv",
+      "sha256": "11527dbc04908b03ebfd40bc8a98c74728e8e97d2caee7048f299ed95867b0a9",
+      "bytes": 466
+    }
+  },
+  "outputs": [
+    {
+      "type": "admission_scores",
+      "count": 1,
+      "path": "data\\generated\\admission_scores.imported.json"
+    }
+  ]
+}

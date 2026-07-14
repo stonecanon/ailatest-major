@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "zhejiang-80-volunteer-ranking",
+    "channel": "浙江考生",
+    "title": "浙江80个平行志愿到底怎么排",
+    "description": "给浙江考生和家长的志愿排序入口：先看专业兴趣、城市偏好、冲稳保结构和风险提示，再决定80个志愿怎么排。",
+    "hook": "不是再问“我能上什么学校”，而是先把80个志愿排得更清楚。",
+    "primary_cta": "开始做志愿排序",
+    "primary_href": "/planner/",
+    "secondary_cta": "查看位次数据边界",
+    "secondary_href": "/admissions/match/",
+    "major_slugs": ["artificial-intelligence", "computer-science-and-technology", "software-engineering", "data-science-and-big-data-technology"],
+    "points": [
+      "先把想去的城市、不能接受的专业和民办/中外合作限制写清楚。",
+      "再看志愿清单里有没有重复学校过多、保底不足、冲刺过多的问题。",
+      "浙江、山东适合逐步做专业级历史位次参考；广东、上海等专业组省份不能伪装成单专业位次。"
+    ],
+    "source_note": "页面用于传播入口和决策启发，正式填报仍以浙江省教育考试院和高校招生章程为准。"
+  },
+  {
+    "slug": "ai-hot-majors-guide",
+    "channel": "AI专业选择",
+    "title": "AI热门专业怎么选才不只看名字",
+    "description": "人工智能、数据科学、机器人工程、具身智能、脑机科学与技术等热门方向的初步区分。",
+    "hook": "AI很热，但专业名称相近不代表培养方案相同。",
+    "primary_cta": "查看AI专业专题",
+    "primary_href": "/topics/ai-majors-2026/",
+    "secondary_cta": "对比人工智能和计算机",
+    "secondary_href": "/comparison/artificial-intelligence-vs-computer-science/",
+    "major_slugs": ["artificial-intelligence", "embodied-intelligence", "robotics-engineering", "brain-computer-science-and-technology", "cyberspace-security", "industrial-software"],
+    "points": [
+      "人工智能更看数学、编程、模型和数据基础，不只是“会用AI工具”。",
+      "具身智能、脑机科学与技术等新专业要重点看学校平台、实验条件和培养方案成熟度。",
+      "如果更想要稳固计算机基础，可以同时比较计算机科学与技术、软件工程、数据科学等入口。"
+    ],
+    "source_note": "专业代码和目录属性以教育部/阳光高考公开专业目录为基础，解释性内容为AI结构化辅助。"
+  },
+  {
+    "slug": "rank-data-explained",
+    "channel": "位次数据说明",
+    "title": "高考位次数据到底能不能拿来选专业",
+    "description": "解释浙江、山东、广东、上海等省份投档位次的颗粒度差异，避免把专业组线误当成单专业录取线。",
+    "hook": "同样叫“投档线”，有的能看到专业，有的只能看到院校专业组。",
+    "primary_cta": "查看公开数据来源",
+    "primary_href": "/data-sources/",
+    "secondary_cta": "试用位次参考",
+    "secondary_href": "/admissions/match/",
+    "major_slugs": ["artificial-intelligence", "computer-science-and-technology", "architecture", "law"],
+    "points": [
+      "浙江和山东更适合做“学校+专业/专业类+位次”的历史参考。",
+      "广东、上海等省份公开的是院校专业组层级，不能直接推断组内每个专业的最低位次。",
+      "历史位次只能用于参考区间和冲稳保结构，不能承诺录取概率。"
+    ],
+    "source_note": "投档数据来源于省教育考试院公开发布页面或附件，页面只做历史参考和方法说明。"
+  }
+]

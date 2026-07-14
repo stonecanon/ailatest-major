@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "university_id": 1,
+    "difficulty_level": "中等",
+    "openness_score": 72,
+    "summary": "浙江大学转专业通常要看学校当期通知、学院接收余量和考核要求。适合把“能否转入目标专业”作为备选路径，但不能把转专业当作确定兜底。",
+    "application_window": "以本科生院每学期通知为准",
+    "common_limits": ["接收专业余量", "学院考核", "特殊招生或录取约定限制", "具体课程和成绩要求"],
+    "student_advice": "如果第一志愿不是最想读的专业，报考前要同时查看目标学院近年的接收细则、余量和考核方式。",
+    "source_name": "浙江大学本科生院/学院转专业通知与实施细则",
+    "source_url": "https://www.som.zju.edu.cn/2025/0711/c63501a3069214/page.htm",
+    "source_note": "该链接为浙江大学管理学院2025年转专业实施细则，引用其校级办法依据；学校层面和其他学院要求需继续回到本科生院及学院官网复核。"
+  },
+  {
+    "id": 2,
+    "university_id": 2,
+    "difficulty_level": "偏高",
+    "openness_score": 62,
+    "summary": "清华大学学籍管理规定允许学生在一、二年级按学校规定申请转专业，学校每学年组织一次，通常在春季学期进行；具体接收方案由院系制定并备案。",
+    "application_window": "每学年一次，通常春季学期",
+    "common_limits": ["特殊招生形式限制", "院系接收方案", "转入前课程认定", "培养方案和学习年限要求"],
+    "student_advice": "清华转专业需要看目标院系当年的接收方案，热门方向竞争可能较强，不能只看学校层面允许申请。",
+    "source_name": "清华大学本科生学籍管理规定",
+    "source_url": "https://www.tsinghua.edu.cn/info/1092/1115.htm",
+    "source_note": "学校规定列明转专业与转学章节；院系接收条件、名额和考核方式需以当年院系方案为准。"
+  },
+  {
+    "id": 3,
+    "university_id": 3,
+    "difficulty_level": "待复核",
+    "openness_score": 50,
+  "summary": "暂无已核验政策摘要。",
+    "application_window": "待教务部公开通知复核",
+    "common_limits": ["院系政策差异", "专业准入条件", "特殊招生限制", "名额和考核要求"],
+    "student_advice": "如果计划通过转专业进入热门院系，应先把当年院系政策作为必查项，不建议仅凭传闻判断难易。",
+    "source_name": "北京大学教务部：转系转专业学生服务页",
+    "source_url": "https://dean.pku.edu.cn/web/student_info.php?id=40&type=8",
+    "source_note": "官方链接为北京大学教务部学生服务页面；具体年度通知、院系接收方案和医学部政策仍需按当年通知复核。"
+  },
+  {
+    "id": 4,
+    "university_id": 4,
+    "difficulty_level": "中等",
+    "openness_score": 68,
+    "summary": "南京大学本科生院有专业准入相关文件入口，转入目标专业一般要看学校文件、院系准入要求和当年通知。",
+    "application_window": "以本科生院和院系通知为准",
+    "common_limits": ["专业准入要求", "院系考核", "特殊招生限制", "课程基础要求"],
+    "student_advice": "南大适合重点查看“专业准入”文件和目标院系近年通知，尤其是跨学科转入热门专业时。",
+    "source_name": "南京大学本科生院学校文件入口",
+    "source_url": "https://jw.nju.edu.cn/24750/list2.htm",
+    "source_note": "该入口包含南京大学本科教学相关学校文件；具体转专业/准入办法需进一步定位到当年有效文件。"
+  },
+  {
+    "id": 5,
+    "university_id": 5,
+    "difficulty_level": "中等",
+    "openness_score": 70,
+    "summary": "中山大学公开材料显示，符合基本资格的学生可申请转院系专业，但需要符合学校和接收院系规定的转入条件，并按当年接收计划和实施细则办理。",
+    "application_window": "以当年教务部或院系通知为准",
+    "common_limits": ["招生时明确不能转专业", "已转过一次专业", "学籍状态异常", "接收院系条件和计划"],
+    "student_advice": "中大转专业信息相对公开，但具体能否转入仍取决于接收院系计划、考核和资格限制。",
+    "source_name": "中山大学本科生转专业常见问题与院系通知",
+    "source_url": "https://jwb.sysu.edu.cn/sites/default/files/2021-09/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E7%94%B3%E6%8A%A5%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+    "source_note": "FAQ引用中山大学全日制本科生转专业实施办法；最新年度安排需继续查看教务部或院系当年通知。"
+  },
+  {
+    "id": 6,
+    "university_id": 6,
+    "difficulty_level": "待复核",
+    "openness_score": 50,
+  "summary": "暂无已核验政策摘要。",
+    "application_window": "待教务处公开通知复核",
+    "common_limits": ["学院政策差异", "接收名额", "课程和成绩要求", "特殊招生限制"],
+    "student_advice": "如果把川大作为可转专业路径，应在报考前查看教务处通知和目标学院细则。",
+    "source_name": "四川大学教务处：转专业栏目",
+    "source_url": "https://jwc.scu.edu.cn/xsfw/zzy.htm",
+    "source_note": "官方链接为四川大学教务处转专业栏目；具体年度接收计划、学院方案和附件需按当年通知复核。"
+  }
+]

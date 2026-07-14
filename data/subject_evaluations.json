@@ -1,0 +1,157 @@
+[
+  {
+    "subject_code": "0812",
+    "subject_name": "计算机科学与技术",
+    "round": "第四轮",
+    "related_major_slugs": ["computer-science-and-technology", "software-engineering", "artificial-intelligence", "data-science-and-big-data-technology", "information-security", "cyberspace-security", "network-engineering", "intelligent-science-and-technology", "industrial-software"],
+    "results": [
+      { "grade": "A+", "universities": ["北京大学", "清华大学", "浙江大学", "国防科技大学"] },
+      { "grade": "A", "universities": ["北京航空航天大学", "北京邮电大学", "哈尔滨工业大学", "上海交通大学", "南京大学", "华中科技大学", "电子科技大学"] },
+      { "grade": "A-", "universities": ["北京交通大学", "北京理工大学", "东北大学", "吉林大学", "同济大学", "中国科学技术大学", "武汉大学", "中南大学", "西安交通大学", "西北工业大学", "西安电子科技大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0812_jsjkxyjs.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果。学科评估是一级学科整体水平评估，不等同于本科专业排名。"
+  },
+  {
+    "subject_code": "0809",
+    "subject_name": "电子科学与技术",
+    "round": "第四轮",
+    "related_major_slugs": ["electronic-information-engineering", "microelectronics-science-and-engineering", "integrated-circuit-design-and-integrated-system", "communication-engineering"],
+    "results": [
+      { "grade": "A+", "universities": ["电子科技大学", "西安电子科技大学"] },
+      { "grade": "A", "universities": ["北京大学", "清华大学", "东南大学"] },
+      { "grade": "A-", "universities": ["北京邮电大学", "复旦大学", "上海交通大学", "南京大学", "浙江大学", "西安交通大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0809_dzkxyjs.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；电子信息类本科专业还需结合学校具体学院、培养方案和招生专业名称核验。"
+  },
+  {
+    "subject_code": "0810",
+    "subject_name": "信息与通信工程",
+    "round": "第四轮",
+    "related_major_slugs": ["communication-engineering", "electronic-information-engineering", "internet-of-things-engineering"],
+    "results": [
+      { "grade": "A+", "universities": ["北京邮电大学", "电子科技大学"] },
+      { "grade": "A", "universities": ["清华大学", "上海交通大学", "西安电子科技大学", "国防科技大学"] },
+      { "grade": "A-", "universities": ["北京交通大学", "北京航空航天大学", "北京理工大学", "哈尔滨工业大学", "东南大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0810_xxytxgc.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；通信、电子信息和物联网方向需结合具体专业所属学院判断。"
+  },
+  {
+    "subject_code": "0811",
+    "subject_name": "控制科学与工程",
+    "round": "第四轮",
+    "related_major_slugs": ["automation", "robotics-engineering", "intelligent-manufacturing-engineering", "electrical-engineering-and-automation"],
+    "results": [
+      { "grade": "A+", "universities": ["清华大学", "哈尔滨工业大学", "浙江大学"] },
+      { "grade": "A", "universities": ["北京航空航天大学", "北京理工大学", "东北大学", "上海交通大学", "国防科技大学"] },
+      { "grade": "A-", "universities": ["哈尔滨工程大学", "东南大学", "山东大学", "华中科技大学", "中南大学", "西安交通大学", "广东工业大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0811_kzkxygc.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；自动化、机器人和智能制造方向可参考控制学科基础，但仍需看本科培养方案。"
+  },
+  {
+    "subject_code": "0808",
+    "subject_name": "电气工程",
+    "round": "第四轮",
+    "related_major_slugs": ["electrical-engineering-and-automation", "new-energy-science-and-engineering", "new-energy-vehicles-engineering"],
+    "results": [
+      { "grade": "A+", "universities": ["清华大学", "西安交通大学"] },
+      { "grade": "A", "universities": ["华北电力大学", "华中科技大学"] },
+      { "grade": "A-", "universities": ["哈尔滨工业大学", "浙江大学", "重庆大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0808_dqgc.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；电气、新能源和车辆相关专业还要看电力系统、控制、机械等具体方向。"
+  },
+  {
+    "subject_code": "0813",
+    "subject_name": "建筑学",
+    "round": "第四轮",
+    "related_major_slugs": ["architecture"],
+    "results": [
+      { "grade": "A+", "universities": ["清华大学", "东南大学"] },
+      { "grade": "A", "universities": ["天津大学", "同济大学", "华南理工大学"] },
+      { "grade": "A-", "universities": ["哈尔滨工业大学", "浙江大学", "华中科技大学", "重庆大学", "西安建筑科技大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0813_jzx.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；建筑学还要结合专业认证、作品训练、城市资源和学制判断。"
+  },
+  {
+    "subject_code": "0833",
+    "subject_name": "城乡规划学",
+    "round": "第四轮",
+    "related_major_slugs": ["urban-rural-planning"],
+    "results": [
+      { "grade": "A+", "universities": ["清华大学", "同济大学"] },
+      { "grade": "A", "universities": ["天津大学", "哈尔滨工业大学", "东南大学"] },
+      { "grade": "A-", "universities": ["南京大学", "华中科技大学", "华南理工大学", "重庆大学", "西安建筑科技大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a0833_cxghx.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；城乡规划还要结合自然资源、住建、公务员职位表和院校培养方向判断。"
+  },
+  {
+    "subject_code": "0301",
+    "subject_name": "法学",
+    "round": "第四轮",
+    "related_major_slugs": ["law"],
+    "results": [
+      { "grade": "A+", "universities": ["中国人民大学", "中国政法大学"] },
+      { "grade": "A", "universities": ["北京大学", "清华大学", "华东政法大学", "武汉大学", "西南政法大学"] },
+      { "grade": "A-", "universities": ["对外经济贸易大学", "吉林大学", "上海交通大学", "南京大学", "浙江大学", "厦门大学", "中南财经政法大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/rwsk/a0301_fx.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；法学报考还要结合学校法学院平台、法考、实习城市和具体就业路径。"
+  },
+  {
+    "subject_code": "0202",
+    "subject_name": "应用经济学",
+    "round": "第四轮",
+    "related_major_slugs": ["finance", "major-020201k", "major-020202", "major-020102", "digital-economy", "major-020401"],
+    "results": [
+      { "grade": "A+", "universities": ["北京大学", "中国人民大学", "中央财经大学"] },
+      { "grade": "A", "universities": ["对外经济贸易大学", "东北财经大学", "上海财经大学", "厦门大学"] },
+      { "grade": "A-", "universities": ["清华大学", "南开大学", "复旦大学", "江西财经大学", "山东大学", "中南财经政法大学", "西南财经大学", "西安交通大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/rwsk/a0202_yyjjx.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；金融、财政、税收和国际经贸等本科专业需进一步核对具体学院和培养方向。"
+  },
+  {
+    "subject_code": "1202",
+    "subject_name": "工商管理",
+    "round": "第四轮",
+    "related_major_slugs": ["accounting", "major-120207", "major-120204", "major-120201k"],
+    "results": [
+      { "grade": "A+", "universities": ["中国人民大学", "清华大学", "上海交通大学", "中山大学"] },
+      { "grade": "A", "universities": ["北京大学", "对外经济贸易大学", "南开大学", "复旦大学", "上海财经大学", "南京大学", "厦门大学", "西安交通大学"] },
+      { "grade": "A-", "universities": ["北京交通大学", "中央财经大学", "大连理工大学", "东北财经大学", "吉林大学", "浙江大学", "山东大学", "武汉大学", "华中科技大学", "湖南大学", "四川大学", "西南财经大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/rwsk/a1202_gsgl.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；会计、审计和财务管理还要结合会计学科、实习城市、证书路径和就业质量报告。"
+  },
+  {
+    "subject_code": "1002",
+    "subject_name": "临床医学",
+    "round": "第四轮",
+    "related_major_slugs": ["clinical-medicine"],
+    "results": [
+      { "grade": "A+", "universities": ["上海交通大学", "浙江大学"] },
+      { "grade": "A", "universities": ["北京协和医学院", "复旦大学"] },
+      { "grade": "A-", "universities": ["北京大学", "首都医科大学", "华中科技大学", "中南大学", "中山大学", "四川大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a1002_lcyx.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；医学报考还要看直属医院、培养层次、规培路径和体检要求。"
+  },
+  {
+    "subject_code": "1003",
+    "subject_name": "口腔医学",
+    "round": "第四轮",
+    "related_major_slugs": ["oral-medicine"],
+    "results": [
+      { "grade": "A+", "universities": ["北京大学", "四川大学", "第四军医大学"] },
+      { "grade": "B+", "universities": ["上海交通大学", "南京医科大学", "武汉大学", "中山大学"] }
+    ],
+    "source_url": "https://www.cdgdc.edu.cn/dslxkpgjggb/xkpm/gx/a1003_kqyx.htm",
+    "source_note": "教育部学位与研究生教育发展中心第四轮学科评估结果；口腔医学还要看附属口腔医院、临床训练和执业路径。"
+  }
+]

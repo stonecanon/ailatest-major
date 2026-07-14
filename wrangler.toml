@@ -1,0 +1,27 @@
+name = "ailatest-major"
+compatibility_date = "2026-06-11"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ailatest-major"
+database_id = "0670627c-7185-4db8-9af9-08b8a9b033eb"
+
+[vars]
+AUTH_EMAIL_FROM = "login@ailatest.org"
+AUTH_EMAIL_FROM_NAME = "majorAI"
+AUTH_SESSION_DAYS = "30"
+EMAIL_WORKER_URL = "https://majorai-email-sender.jiantaoweng.workers.dev"
+
+[env.production]
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "ailatest-major"
+database_id = "0670627c-7185-4db8-9af9-08b8a9b033eb"
+
+[env.production.vars]
+AUTH_EMAIL_FROM = "login@ailatest.org"
+AUTH_EMAIL_FROM_NAME = "majorAI"
+AUTH_SESSION_DAYS = "30"
+EMAIL_WORKER_URL = "https://majorai-email-sender.jiantaoweng.workers.dev"

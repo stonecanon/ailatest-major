@@ -1,0 +1,248 @@
+[
+  {
+    "id": "major-computer-family-advice",
+    "target_type": "major",
+    "target_slugs": [
+      "computer-science-and-technology",
+      "software-engineering",
+      "artificial-intelligence",
+      "data-science-and-big-data-technology",
+      "network-engineering"
+    ],
+    "title": "家长常问提醒",
+    "summary": "计算机、软件、AI、数据类专业热度高，但不是“只要报了就高薪”。真正要看学校层次、城市实习机会、数学与编程基础、项目作品和持续学习能力。",
+    "checkpoints": [
+      "看课程是否有扎实的数学、数据结构、操作系统、计算机网络和工程项目，而不只是热门名称。",
+      "看学校所在城市和产业环境，杭州、上海、深圳、北京、南京、广州、成都等城市更容易接触实习。",
+      "如果孩子不愿长期写代码、调试和自学，计算机热门也可能变成压力源。",
+      "AI相关专业要特别看师资、算力平台、课程深度和是否有真实科研/产业项目。"
+    ],
+    "caveats": [
+      "不承诺高薪或录取概率，只作为报考决策提醒。",
+      "不是张雪峰本人授权点评，也不复制付费课程或直播原话。"
+    ],
+    "source_note": "综合公开媒体报道中关于“专业选择要结合个人实际、不要盲从热门、不同分数段需求不同”的观点，并结合公开专业目录与就业常识做AI结构化整理。",
+    "source_urls": [
+      "https://gaokao.eol.cn/news/202406/t20240605_2614331.shtml",
+      "https://edu.sina.cn/gaokao/bkzn/2020-06-01/detail-iirczymk4668724.d.html?vt=4"
+    ]
+  },
+  {
+    "id": "major-electronic-chip-family-advice",
+    "target_type": "major",
+    "target_slugs": [
+      "electronic-information-engineering",
+      "communication-engineering",
+      "microelectronics-science-and-engineering",
+      "integrated-circuit-design-and-integrated-system",
+      "information-security",
+      "cyberspace-security"
+    ],
+    "title": "家长常问提醒",
+    "summary": "电子信息、通信、芯片和安全方向属于硬科技与数字基础设施赛道，长期价值强，但课程硬、门槛高，不能只按专业名气判断。",
+    "checkpoints": [
+      "芯片和微电子方向要看学校实验条件、电子信息学科基础和研究生深造通道。",
+      "通信和电子信息更偏电路、信号、硬件与系统，不等同于纯软件开发。",
+      "信息安全、网络空间安全要看数学、编程、网络和实践平台，适合能接受攻防与合规训练的学生。",
+      "报考前要核对选科要求，物理基础通常很重要。"
+    ],
+    "caveats": [
+      "硬科技专业回报更依赖长期积累，不适合只追短期风口。",
+      "不是张雪峰本人授权点评，也不复制付费课程或直播原话。"
+    ],
+    "source_note": "综合公开媒体报道中对就业导向、热门专业和学校选择的公开讨论，并结合教育部专业目录做AI结构化提醒。",
+    "source_urls": [
+      "https://edu.sina.cn/gaokao/bkzn/2020-06-01/detail-iirczymk4668724.d.html?vt=4",
+      "https://gaokao.chsi.com.cn/gkxx/zcdh/202604/20260428/2293468784.html"
+    ]
+  },
+  {
+    "id": "major-medicine-family-advice",
+    "target_type": "major",
+    "target_slugs": [
+      "clinical-medicine",
+      "oral-medicine",
+      "pharmacy"
+    ],
+    "title": "家长常问提醒",
+    "summary": "医学类专业稳定性和社会认可度高，但周期长、责任重、培养路径严。报考时要先问孩子能不能接受长期学习、规培、执业考试和临床压力。",
+    "checkpoints": [
+      "临床医学和口腔医学常见学制更长，要提前理解本科、研究生、规培和执业资格路径。",
+      "口腔医学更强调精细操作和患者沟通，临床医学覆盖面更广。",
+      "药学不是临床医生路径，更偏药物研发、质量、注册、医院药学和监管。",
+      "医学类国家控制布点专业要严格看学校招生章程、身体条件和选科要求。"
+    ],
+    "caveats": [
+      "医学不是“稳妥高薪”的简单标签，投入周期和心理压力必须一起评估。",
+      "不是张雪峰本人授权点评，也不复制付费课程或直播原话。"
+    ],
+    "source_note": "综合公开媒体报道中关于务实选专业和就业导向的讨论，并结合教育部专业目录、阳光高考专业知识库做AI结构化提醒。",
+    "source_urls": [
+      "https://gaokao.eol.cn/news/202406/t20240605_2614331.shtml",
+      "https://gaokao.chsi.com.cn/zyk/zybk/"
+    ]
+  },
+  {
+    "id": "major-law-civil-service-advice",
+    "target_type": "major",
+    "target_slugs": [
+      "law",
+      "chinese-language-and-literature",
+      "accounting",
+      "finance"
+    ],
+    "title": "家长常问提醒",
+    "summary": "法学、汉语言、会计、金融常被家长拿来和考公、体制内、城市就业一起比较。它们不是自动稳定，但在公务员、事业单位和文职岗位中有较高讨论度。",
+    "checkpoints": [
+      "法学要关注法考、院校法学实力、实习机会和是否适合长期阅读写作。",
+      "汉语言文学适合阅读写作强、考虑教师、公务员、编辑传播方向的学生。",
+      "会计和金融要看城市、证书、实习和数据能力，不能只看专业名称。",
+      "考公适配度必须以当年职位表专业目录为准，不能提前承诺岗位。"
+    ],
+    "caveats": [
+      "考公适配不等于一定上岸，岗位数量和竞争强度每年变化。",
+      "不是张雪峰本人授权点评，也不复制付费课程或直播原话。"
+    ],
+    "source_note": "综合公开媒体报道中关于家庭条件、就业导向和不盲从建议的公开讨论，并结合公务员岗位常识做AI结构化提醒。",
+    "source_urls": [
+      "https://www.doxue.com/information/9271",
+      "https://gaokao.eol.cn/news/202406/t20240605_2614331.shtml"
+    ]
+  },
+  {
+    "id": "university-platform-city-advice",
+    "target_type": "university",
+    "target_slugs": [
+      "zhejiang-university",
+      "nanjing-university",
+      "sun-yat-sen-university",
+      "sichuan-university",
+      "peking-university",
+      "tsinghua-university"
+    ],
+    "title": "家长看学校提醒",
+    "summary": "看大学不能只看校名，也要看城市、强势学科、转专业政策、招生章程和目标专业的实际培养资源。",
+    "checkpoints": [
+      "同一所大学不同专业的培养资源和就业出口差异很大，热门学校里的弱势专业也要谨慎。",
+      "优先核验学校招生官网、阳光高考招生章程、省考试院计划和历年投档位次。",
+      "如果孩子专业目标不明确，要额外看转专业政策、通识培养和大类分流规则。",
+      "城市会影响实习、就业、人脉和生活成本，不能只按学校排名排序。"
+    ],
+    "caveats": [
+      "学校提醒只用于决策检查，不替代招生章程和省考试院数据。",
+      "不是张雪峰本人授权点评，也不复制付费课程或直播原话。"
+    ],
+    "source_note": "综合公开媒体报道中关于学校、专业、城市和家庭情况平衡的讨论，并结合阳光高考招生章程入口做AI结构化提醒。",
+    "source_urls": [
+      "https://gaokao.eol.cn/news/202406/t20240605_2614331.shtml",
+      "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--method-index,ssdm-33,bm-11,lb-1.dhtml"
+    ]
+  },
+  {
+    "id": "public-figures-ai-engineering-advice",
+    "target_type": "major",
+    "target_slugs": [
+      "artificial-intelligence",
+      "embodied-intelligence",
+      "robotics-engineering",
+      "intelligent-manufacturing-engineering",
+      "integrated-circuit-design-and-integrated-system",
+      "microelectronics-science-and-engineering",
+      "electronic-information-engineering",
+      "automation",
+      "new-energy-vehicles-engineering",
+      "measurement-control-technology-and-instruments",
+      "mathematics-and-applied-mathematics"
+    ],
+    "title": "公开人物观点启发",
+  "summary": "AI时代不要只把“会写代码”当作唯一目标。公开报道和开源整理中，马斯克式第一性原理更强调物理约束、工程交付和垂直整合；黄仁勋也谈到AI进入物理世界后，物理、工程、芯片、机器人和真实产业知识会更重要。",
+    "checkpoints": [
+    "如果目标是AI、机器人、智能制造或自动驾驶，要同时看数学、物理、电路、控制和工程实践，不要只看专业名里有没有AI。",
+    "用第一性原理拆专业：这个方向解决的底层问题是什么，受哪些物理、数据、算力、制造或供应链约束限制。",
+    "用五步算法看培养方案：先问课程和项目为什么存在，再看是否有真实实验、制造、部署、迭代和跨学科训练。",
+    "软件能力仍然重要，但更强的竞争力来自“软件 + 硬件/产业/物理世界”的复合能力。",
+    "报考时优先看学校是否有实验平台、工程项目、竞赛训练、产业合作和真实科研方向。"
+    ],
+    "caveats": [
+    "这里不是马斯克或黄仁勋对某个中国本科专业的报考推荐。",
+    "GitHub skill 只作为公开观点框架参考，不作为事实数据来源或名人授权背书。",
+    "本站不使用名人作为录取或就业背书，只把公开观点转化为选专业检查清单。"
+    ],
+  "source_note": "基于公开媒体报道中马斯克关于物理/第一性原理、黄仁勋关于physical sciences/physical AI和AI工具化趋势的观点，并参考 elon-musk-skill 对渐近极限法、五步算法、垂直整合和快速迭代的公开整理，做AI结构化提醒。",
+    "source_urls": [
+      "https://github.com/alchaincyf/elon-musk-skill",
+      "https://www.worldgovernmentssummit.org/observer/articles/detail/this-is-the-subject-elon-musk-says-young-people-need-to-study-to-be-successful-in-the-future",
+      "https://www.entrepreneur.com/business-news/nvidia-ceo-says-he-would-major-in-the-physical-sciences/494829"
+    ]
+  },
+  {
+    "id": "zhangxuefeng-framework-employment-backward-advice",
+    "target_type": "major",
+    "target_slugs": [
+      "computer-science-and-technology",
+      "software-engineering",
+      "artificial-intelligence",
+      "data-science-and-big-data-technology",
+      "electronic-information-engineering",
+      "communication-engineering",
+      "automation",
+      "law",
+      "accounting",
+      "finance",
+      "clinical-medicine",
+      "oral-medicine",
+      "major-081001",
+      "major-050301",
+      "major-080401",
+      "major-081301",
+      "major-082502",
+      "major-071001"
+    ],
+    "title": "公开观点框架提醒",
+    "summary": "选专业先做“就业倒推”：不要只看热门名称，也不要只看头部毕业生故事，要看普通毕业生的中位去向、城市机会、学历门槛、家庭试错成本和专业壁垒。",
+    "checkpoints": [
+      "先问省份、位次、选科、家庭预算、城市偏好和不能接受的行业，再谈专业排序。",
+      "看中间多数人的去向：就业质量报告、招聘去向、考研比例、考公岗位和转专业规则，比单个成功案例更有用。",
+      "工科重点看专业壁垒、实验平台和项目训练；经管文法重点看学校平台、城市实习、证书考试和表达能力。",
+      "普通家庭要降低试错成本，优先排除明显不接受的工作场景，再做冲稳保排序。"
+    ],
+    "caveats": [
+      "这是 GitHub 公开 skill 对公开观点的结构化整理，不是张雪峰本人授权点评。",
+      "页面不会引用未授权直播、付费课程或把民间整理当作事实数据。"
+    ],
+    "source_note": "参考 ZhangXueFeng-skill 中的就业倒推法、中位数原则、城市优先原则和数据来源标注规则，转化为专业选择检查清单；事实字段仍以官方和学校公开来源为准。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill/tree/main/references/research"
+    ]
+  },
+  {
+    "id": "zhangxuefeng-framework-university-city-platform-advice",
+    "target_type": "university",
+    "target_slugs": [
+      "zhejiang-university",
+      "nanjing-university",
+      "sun-yat-sen-university",
+      "sichuan-university",
+      "peking-university",
+      "tsinghua-university"
+    ],
+    "title": "公开观点框架提醒",
+    "summary": "看大学时，把学校层次、城市资源、强势学科、转专业空间、推免资格和目标专业放在一起比较。学校名气重要，但志愿排序最终要落到具体专业和具体城市。",
+    "checkpoints": [
+      "同一所大学的强势学科、普通专业和新设专业差异很大，要查招生章程、培养方案和就业质量报告。",
+      "城市会影响实习、就业和视野，但不是绝对优先，必须和专业资源、家庭成本、升学路径一起权衡。",
+      "如果想先入校再转专业，要把转专业原政策、名额、成绩要求和大类分流规则提前查清。",
+      "有推免资格、985、211、双一流等标签可以加分，但不能替代专业适配度和历史位次区间。"
+    ],
+    "caveats": [
+      "这是 GitHub 公开 skill 对公开观点的结构化整理，不是张雪峰本人授权点评。",
+      "院校事实仍以教育部、阳光高考、学校官网、省考试院和就业质量报告为准。"
+    ],
+    "source_note": "参考 ZhangXueFeng-skill 中的城市优先原则、家庭背景分流和数据来源标注规则，转化为院校选择检查清单。",
+    "source_urls": [
+      "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+      "https://gaokao.chsi.com.cn/zsgs/zhangcheng/listVerifedZszc--method-index,ssdm-33,bm-11,lb-1.dhtml"
+    ]
+  }
+]

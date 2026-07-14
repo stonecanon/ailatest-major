@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "province": "浙江",
+    "university_id": 1,
+    "major_id": 1,
+    "batch": "普通类",
+    "subject_group": "物理+不限",
+    "plan_count": 5,
+    "tuition": null,
+    "campus": "以当年招生章程为准",
+    "remarks": "样例数据仅用于导入格式测试",
+    "source_note": "浙江省教育考试院或浙江大学招生网公开招生计划字段；样例勿用于正式展示。"
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "province": "浙江",
+    "university_id": 1,
+    "major_id": 3,
+    "batch": "普通类",
+    "subject_group": "物理+化学",
+    "plan_count": 8,
+    "tuition": null,
+    "campus": "以当年招生章程为准",
+    "remarks": "样例数据仅用于导入格式测试",
+    "source_note": "浙江省教育考试院或浙江大学招生网公开招生计划字段；样例勿用于正式展示。"
+  }
+]

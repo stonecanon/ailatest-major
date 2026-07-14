@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "university_id": 1,
+    "year": 2024,
+    "cohort": "2024届本科毕业生",
+    "undergraduate_count": null,
+    "domestic_study_rate": null,
+    "overseas_study_rate": null,
+    "further_study_rate": "70.06%",
+    "recommendation_rate": null,
+    "recommendation_basis": "保研率需要用学校推免名单或推免名额公示除以本科毕业生人数复算，当前未完成官方原表核验。",
+    "status": "需复核",
+    "source_name": "浙江大学信息公开：毕业生就业质量年度报告入口；2024届深造率数字来自公开媒体对学校发布信息的转述",
+    "source_url": "https://www.zju.edu.cn/xxgk/17975/list.htm",
+    "extra_source_urls": [
+      "https://www.eol.cn/news/dongtai/202502/t20250226_2655959.shtml"
+    ],
+    "source_note": "2024届本科毕业生境内外升学深造率70.06%暂按公开媒体转述记录，需回到浙江大学就业网或就业质量报告原文复核后转为已核验。"
+  },
+  {
+    "id": 2,
+    "university_id": 7,
+    "year": 2023,
+    "cohort": "2023届本科毕业生",
+    "undergraduate_count": 4609,
+    "domestic_study_rate": "34.28%",
+    "overseas_study_rate": "4.95%",
+    "further_study_rate": "39.21%",
+    "recommendation_rate": null,
+    "recommendation_basis": "保研率未在就业质量报告中直接披露，需继续核验学校推免名单或推免名额公示。",
+    "status": "已核验",
+    "source_name": "杭州电子科技大学2023年毕业生就业质量报告",
+    "source_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20240315/1005_%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A62023%E5%B9%B4%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E6%8A%A5%E5%91%8A.pdf",
+    "extra_source_urls": [],
+    "source_note": "报告表1-9披露本科国内升学与出国出境人数；图4-2披露2023届本科升学比例39.21%。"
+  },
+  {
+    "id": 3,
+    "university_id": 2,
+    "year": 2024,
+    "cohort": "2024届本科毕业生",
+    "undergraduate_count": 3650,
+    "domestic_study_rate": null,
+    "overseas_study_rate": "18.4%",
+    "further_study_rate": null,
+    "recommendation_rate": null,
+    "recommendation_basis": "保研率需继续核验学校推免名单或推免名额公示；当前只记录本科出国（境）深造比例。",
+    "status": "部分核验",
+    "source_name": "清华大学2023-2024学年本科教学质量报告；清华大学新闻网2024届毕业生就业统计报道",
+    "source_url": "https://www.tsinghua.edu.cn/jwc/info/1068/1274.htm",
+    "extra_source_urls": [
+      "https://www.tsinghua.edu.cn/info/1182/116497.htm",
+      "https://www.tsinghua.edu.cn/__local/C/9B/FD/BA078DEA9FD003289CCF5BADF97_A846EFE9_88225.pdf"
+    ],
+    "source_note": "本科教学质量报告披露2024年本科毕业生总数3650人；清华大学新闻网披露2024届本科生出国（境）深造比例18.4%。国内升学和总体深造率待就业质量报告原表核验。"
+  },
+  {
+    "id": 4,
+    "university_id": 3,
+    "year": 2024,
+    "cohort": "2024届应届本科毕业生",
+    "undergraduate_count": 3718,
+    "domestic_study_rate": null,
+    "overseas_study_rate": "18.38%",
+    "further_study_rate": "84.23%（升学去向占比）",
+    "recommendation_rate": null,
+    "recommendation_basis": "保研率未在该段直接披露，需继续核验北京大学推免名单或推免名额公示。",
+    "status": "已核验",
+    "source_name": "北京大学本科教学质量报告（2023-2024学年）",
+    "source_url": "https://dean.pku.edu.cn/web/openinfo.php",
+    "extra_source_urls": [
+      "https://dean.pku.edu.cn/web/download_down.php?type=msg&id=17"
+    ],
+    "source_note": "报告披露2024年本科毕业生3725人、实际毕业3718人；截至2024年8月31日，应届本科毕业生总体就业率93.81%，毕业去向中升学占84.23%，其中出国（境）留学641人，占18.38%。"
+  },
+  {
+    "id": 5,
+    "university_id": 4,
+    "year": 2024,
+    "cohort": "2024届本科毕业生",
+    "undergraduate_count": null,
+    "domestic_study_rate": null,
+    "overseas_study_rate": null,
+    "further_study_rate": "70.64%",
+    "recommendation_rate": null,
+    "recommendation_basis": "保研率需继续核验南京大学推免名单或推免名额公示。",
+    "status": "需复核",
+    "source_name": "南京大学信息公开网：2024届毕业生就业质量报告入口",
+    "source_url": "https://xxgk.nju.edu.cn/83/52/c16401a754514/page.htm",
+    "extra_source_urls": [
+      "https://xxgk.nju.edu.cn/16401/list.htm",
+      "https://www.gaokzx.com/gk/gaokao/135065.html"
+    ],
+    "source_note": "南京大学信息公开网可见2024届毕业生就业质量报告页面；70.64%来自公开整理文章转述，待回到报告原表核验后转为已核验。"
+  },
+  {
+    "id": 6,
+    "university_id": 5,
+    "year": 2024,
+    "cohort": "2024届本科毕业生",
+    "undergraduate_count": 7533,
+    "domestic_study_rate": null,
+    "overseas_study_rate": null,
+    "further_study_rate": null,
+    "recommendation_rate": null,
+    "recommendation_basis": "保研率和升学比例需继续核验学校就业质量报告或推免公示；本科教学质量报告只披露流向质量描述。",
+    "status": "部分核验",
+    "source_name": "中山大学2023-2024学年本科教学质量报告",
+    "source_url": "https://xxgk.sysu.edu.cn/article/333",
+    "extra_source_urls": [
+      "https://xxgk.sysu.edu.cn/sites/default/files/2025-10/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A62023-2024%E5%AD%A6%E5%B9%B4%E6%9C%AC%E7%A7%91%E6%95%99%E5%AD%A6%E8%B4%A8%E9%87%8F%E6%8A%A5%E5%91%8A.pdf"
+    ],
+    "source_note": "报告披露2024年本科毕业生7691人、实际毕业7533人；并说明国内升学毕业生中超九成去往“双一流”高校和重点科研院所，境外深造去向包含帝国理工、牛津、哈佛、剑桥、新加坡国立、香港大学等。未直接披露升学比例。"
+  },
+  {
+    "id": 7,
+    "university_id": 6,
+    "year": null,
+    "cohort": "本科毕业生",
+    "undergraduate_count": null,
+    "domestic_study_rate": null,
+    "overseas_study_rate": null,
+    "further_study_rate": null,
+    "recommendation_rate": null,
+    "recommendation_basis": "待接入学校就业质量报告、本科教学质量报告和推免公示。",
+    "status": "待补充",
+    "source_name": "学校就业质量报告、本科教学质量报告、推免公示",
+    "source_url": "https://www.scu.edu.cn/",
+    "extra_source_urls": [],
+    "source_note": "未填百分比，避免无来源数字误导。"
+  }
+]

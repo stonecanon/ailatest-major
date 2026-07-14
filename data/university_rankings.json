@@ -1,0 +1,746 @@
+[
+  {
+    "name": "清华大学",
+    "rankings": {
+      "ruanke_2026_cn": 1,
+      "qs_2026_world": 17,
+      "the_2026_cn": 1,
+      "the_2026_world": 12,
+      "usnews_2025_2026_world": 11
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.shanghairanking.cn/rankings/bcur/202510",
+      "https://www.shanghairanking.com/rankings/bcur/2026",
+      "https://www.topuniversities.com/world-university-rankings?countries=cn%2Chk&region=Asia",
+      "https://www.timeshighereducation.com/student/best-universities/best-universities-china",
+      "https://time.com/7302310/china-us-global-university-rankings-trump-higher-education/",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "北京大学",
+    "rankings": {
+      "ruanke_2026_cn": 2,
+      "qs_2026_world": 14,
+      "the_2026_cn": 2,
+      "the_2026_world": 13,
+      "usnews_2025_2026_world": 25
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.shanghairanking.cn/rankings/bcur/202510",
+      "https://www.shanghairanking.com/rankings/bcur/2026",
+      "https://www.topuniversities.com/world-university-rankings?countries=cn%2Chk&region=Asia",
+      "https://www.timeshighereducation.com/student/best-universities/best-universities-china",
+      "https://time.com/7302310/china-us-global-university-rankings-trump-higher-education/",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "浙江大学",
+    "rankings": {
+      "ruanke_2026_cn": 3,
+      "qs_2026_world": 47,
+      "the_2026_cn": 4,
+      "the_2026_world": 39,
+      "usnews_2025_2026_world": 45
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.shanghairanking.cn/rankings/bcur/202510",
+      "https://www.shanghairanking.com/rankings/bcur/2026",
+      "https://www.topuniversities.com/world-university-rankings?countries=cn%2Chk&region=Asia",
+      "https://www.timeshighereducation.com/student/best-universities/best-universities-china",
+      "https://time.com/7302310/china-us-global-university-rankings-trump-higher-education/",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "上海交通大学",
+    "rankings": {
+      "ruanke_2026_cn": 4,
+      "qs_2026_world": 45,
+      "the_2026_cn": 5,
+      "the_2026_world": 40,
+      "usnews_2025_2026_world": 46
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.shanghairanking.cn/rankings/bcur/202510",
+      "https://www.shanghairanking.com/rankings/bcur/2026",
+      "https://www.topuniversities.com/world-university-rankings?countries=cn%2Chk&region=Asia",
+      "https://www.timeshighereducation.com/student/best-universities/best-universities-china",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "复旦大学",
+    "rankings": {
+      "ruanke_2026_cn": 5,
+      "qs_2026_world": 39,
+      "the_2026_cn": 3,
+      "the_2026_world": 36,
+      "usnews_2025_2026_world": 70
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.shanghairanking.cn/rankings/bcur/202510",
+      "https://www.shanghairanking.com/rankings/bcur/2026",
+      "https://www.topuniversities.com/world-university-rankings?countries=cn%2Chk&region=Asia",
+      "https://www.timeshighereducation.com/student/best-universities/best-universities-china",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "南京大学",
+    "rankings": {
+      "ruanke_2025_cn": 6,
+      "qs_2025_world": 145,
+      "usnews_2025_2026_world": 86
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/ssgx/202504/t20250415_2663800.shtml",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "中国科学技术大学",
+    "rankings": {
+      "ruanke_2025_cn": 7,
+      "qs_2025_world": 133,
+      "usnews_2025_2026_world": 71
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/ssgx/202504/t20250415_2663800.shtml",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "武汉大学",
+    "rankings": {
+      "ruanke_2025_cn": 8,
+      "qs_2025_world": 194,
+      "usnews_2025_2026_world": 90
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/ssgx/202504/t20250415_2663800.shtml",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "华中科技大学",
+    "rankings": {
+      "ruanke_2025_cn": 9,
+      "qs_2025_world": 300,
+      "usnews_2025_2026_world": 91
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/ssgx/202504/t20250415_2663800.shtml",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "西安交通大学",
+    "rankings": {
+      "ruanke_2025_cn": 10,
+      "qs_2025_world": 295,
+      "usnews_2025_2026_world": 141
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/ssgx/202504/t20250415_2663800.shtml",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "中国科学院大学",
+    "rankings": {
+      "usnews_2025_2026_world": 54
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "中山大学",
+    "rankings": {
+      "qs_2025_world": 331,
+      "arwu_2025_world": 65,
+      "usnews_2025_2026_world": 85
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "湖南大学",
+    "rankings": {
+      "usnews_2025_2026_world": 109
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "南方科技大学",
+    "rankings": {
+      "usnews_2025_2026_world": 123
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "同济大学",
+    "rankings": {
+      "qs_2025_world": 192,
+      "arwu_2025_world_range": "101-150",
+      "usnews_2025_2026_world": 124
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "哈尔滨工业大学",
+    "rankings": {
+      "usnews_2025_2026_world": 128
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "电子科技大学",
+    "rankings": {
+      "usnews_2025_2026_world": 137
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "中南大学",
+    "rankings": {
+      "usnews_2025_2026_world": 146
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "东南大学",
+    "rankings": {
+      "usnews_2025_2026_world": 155
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "北京理工大学",
+    "rankings": {
+      "usnews_2025_2026_world": 156
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "深圳大学",
+    "rankings": {
+      "usnews_2025_2026_world": 156
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "华南理工大学",
+    "rankings": {
+      "usnews_2025_2026_world": 166
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "南开大学",
+    "rankings": {
+      "usnews_2025_2026_world": 166
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "北京师范大学",
+    "rankings": {
+      "usnews_2025_2026_world": 173
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "四川大学",
+    "rankings": {
+      "qs_2025_world": 336,
+      "arwu_2025_world": 87,
+      "usnews_2025_2026_world": 182
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China",
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "天津大学",
+    "rankings": {
+      "usnews_2025_2026_world": 182
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "厦门大学",
+    "rankings": {
+      "usnews_2025_2026_world": 189
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "中国农业大学",
+    "rankings": {
+      "usnews_2025_2026_world": 202
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "郑州大学",
+    "rankings": {
+      "usnews_2025_2026_world": 203
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "北京航空航天大学",
+    "rankings": {
+      "usnews_2025_2026_world": 207
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "西北工业大学",
+    "rankings": {
+      "usnews_2025_2026_world": 207
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "中国地质大学（武汉）",
+    "rankings": {
+      "usnews_2025_2026_world": 211
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "重庆大学",
+    "rankings": {
+      "usnews_2025_2026_world": 212
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "华东师范大学",
+    "rankings": {
+      "usnews_2025_2026_world": 230
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "山东大学",
+    "rankings": {
+      "usnews_2025_2026_world": 238
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "武汉理工大学",
+    "rankings": {
+      "usnews_2025_2026_world": 260
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "大连理工大学",
+    "rankings": {
+      "usnews_2025_2026_world": 261
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "江苏大学",
+    "rankings": {
+      "usnews_2025_2026_world": 271
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "西北农林科技大学",
+    "rankings": {
+      "usnews_2025_2026_world": 288
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "苏州大学",
+    "rankings": {
+      "usnews_2025_2026_world": 292
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "吉林大学",
+    "rankings": {
+      "usnews_2025_2026_world": 296
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "上海大学",
+    "rankings": {
+      "usnews_2025_2026_world": 296
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "南京农业大学",
+    "rankings": {
+      "usnews_2025_2026_world": 302
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "西湖大学",
+    "rankings": {
+      "usnews_2025_2026_world": 308
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "北京化工大学",
+    "rankings": {
+      "usnews_2025_2026_world": 319
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "上海科技大学",
+    "rankings": {
+      "usnews_2025_2026_world": 330
+    },
+    "source_note": "综合公开榜单信号；U.S. News Best Global Universities 2025-2026 排名仅作为公开研究声誉、论文表现和国际比较参考，不等同于专业实力、录取难度或志愿推荐结论。",
+    "source_urls": [
+      "https://www.usnews.com/education/best-global-universities/china",
+      "https://clarivate.com/news/u-s-news-releases-2025-2026-best-global-universities-rankings/",
+      "https://en.wikipedia.org/wiki/Rankings_of_universities_in_China#US_News_Best_Global_Universities_Ranking"
+    ]
+  },
+  {
+    "name": "澳门大学",
+    "rankings": {
+      "qs_2026_world": 285,
+      "the_2026_world": 145,
+      "qs_2026_asia": 102
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/universities/university-macau",
+      "https://www.timeshighereducation.com/world-university-rankings/university-macau"
+    ]
+  },
+  {
+    "name": "澳门科技大学",
+    "rankings": {
+      "qs_2026_world": 440,
+      "the_2026_world_range": "251-300",
+      "qs_2026_asia": 211
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/universities/macau-university-science-technology",
+      "https://www.must.edu.mo/"
+    ]
+  },
+  {
+    "name": "岭南大学",
+    "rankings": {
+      "the_2026_world_range": "301-350"
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.timeshighereducation.com/world-university-rankings/lingnan-university-hong-kong"
+    ]
+  },
+  {
+    "name": "香港城市大学",
+    "rankings": {
+      "qs_2026_world": 63,
+      "the_2026_world": 75,
+      "qs_2026_asia": 7
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/world-university-rankings?countries=hk&region=Asia",
+      "https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+      "https://www.brandhk.gov.hk/docs/default-source/factsheets-library/hong-kong-themes/2026-03-05/rankings_en_mar-2026_final.pdf"
+    ]
+  },
+  {
+    "name": "香港大学",
+    "rankings": {
+      "qs_2026_world": 11,
+      "the_2026_world": 33,
+      "qs_2026_asia": 1
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/world-university-rankings?countries=hk&region=Asia",
+      "https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+      "https://www.brandhk.gov.hk/docs/default-source/factsheets-library/hong-kong-themes/2026-03-05/rankings_en_mar-2026_final.pdf"
+    ]
+  },
+  {
+    "name": "香港浸会大学",
+    "rankings": {
+      "qs_2026_world": 244,
+      "the_2026_world_range": "201-250",
+      "qs_2026_asia": 53
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://oirp.hkbu.edu.hk/en/rankings.html",
+      "https://www.topuniversities.com/universities/hong-kong-baptist-university",
+      "https://www.timeshighereducation.com/world-university-rankings/hong-kong-baptist-university"
+    ]
+  },
+  {
+    "name": "香港科技大学",
+    "rankings": {
+      "qs_2026_world": 44,
+      "the_2026_world": 58,
+      "qs_2026_asia": 6
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/world-university-rankings?countries=hk&region=Asia",
+      "https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+      "https://www.brandhk.gov.hk/docs/default-source/factsheets-library/hong-kong-themes/2026-03-05/rankings_en_mar-2026_final.pdf"
+    ]
+  },
+  {
+    "name": "香港理工大学",
+    "rankings": {
+      "qs_2026_world": 54,
+      "the_2026_world": 83,
+      "qs_2026_asia": 10
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/world-university-rankings?countries=hk&region=Asia",
+      "https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+      "https://www.polyu.edu.hk/about-polyu/university-ranking/"
+    ]
+  },
+  {
+    "name": "香港中文大学",
+    "rankings": {
+      "qs_2026_world": 32,
+      "the_2026_world": 41,
+      "qs_2026_asia": 7
+    },
+    "source_note": "QS/THE排名仅作为公开维度参考，不等同于内地报考批次或投档位次，应结合专业、费用、英语要求和学校当年招生简章核对。",
+    "source_urls": [
+      "https://www.topuniversities.com/world-university-rankings?countries=hk&region=Asia",
+      "https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking",
+      "https://www.brandhk.gov.hk/docs/default-source/factsheets-library/hong-kong-themes/2026-03-05/rankings_en_mar-2026_final.pdf"
+    ]
+  }
+]

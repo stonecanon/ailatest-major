@@ -1,0 +1,99 @@
+[
+  {
+    "slug": "majors-for-introverts",
+    "type": "topics",
+    "title": "内向型考生可以重点了解的专业",
+    "description": "从学习方式、表达压力和职业场景出发，给内向型考生一个不贴标签的专业观察清单。",
+    "major_slugs": ["computer-science-and-technology", "software-engineering", "accounting", "electrical-engineering-and-automation"],
+    "content": "内向不等于不擅长沟通，也不等于只能选择独处型工作。更值得关注的是：这个专业是否允许你通过作品、代码、数据、规范和长期积累建立优势。"
+  },
+  {
+    "slug": "majors-with-good-employment",
+    "type": "topics",
+    "title": "就业面较宽的专业怎么选",
+    "description": "用行业覆盖面、技能迁移性和学历依赖度看待专业就业，不做单一薪资承诺。",
+    "major_slugs": ["computer-science-and-technology", "software-engineering", "electrical-engineering-and-automation", "electronic-information-engineering", "automation", "information-security", "statistics", "accounting", "law"],
+    "content": "就业面宽不代表人人好就业。专业选择要同时看行业需求、院校平台、个人能力、城市机会和继续深造路径。"
+  },
+  {
+    "slug": "majors-for-civil-service",
+    "type": "topics",
+    "title": "想考公，专业怎么规划",
+    "description": "先看岗位数量和专业限制，再看个人兴趣、学校层次和备选就业面。",
+    "major_slugs": ["major-020201k", "major-020202", "major-020101", "major-020102", "finance", "accounting", "major-120207", "major-120204", "computer-science-and-technology", "software-engineering", "network-engineering", "information-security", "cyberspace-security", "data-science-and-big-data-technology", "law", "major-020401", "electronic-information-engineering", "statistics", "mathematics-and-applied-mathematics", "chinese-language-and-literature", "digital-economy", "major-120402"],
+    "content": "考公选专业不能只问“哪个听起来稳定”，要先看当年职位表里哪些专业类能报的岗位多。2026国考公开统计中，财政学、经济学、金融学、财会审计、计算机、法学、经济与贸易、电子信息、统计学、数学等方向可报范围更大；汉语言、行政管理等也有岗位，但通常要结合地区、学历、政治面貌、基层服务经历和具体岗位条件判断。岗位多不等于更容易上岸，热门专业往往竞争也更强。",
+    "sections": [
+      {
+        "kicker": "第一步",
+        "title": "先看岗位池，不先看专业名",
+        "summary": "每年职位表都会变，真正有用的是“这个专业类能打开多少岗位”。",
+        "items": [
+          "优先查国考、省考、事业单位近两年职位表，统计专业要求里出现频率高的专业类。",
+          "财政税收、经济金融、财会审计、计算机、法学等方向通常岗位池更大，但竞争也更集中。",
+          "不要只看“专业不限”，2026国考公开报道显示不限制专业的职位很少，不能把它当主路径。"
+        ]
+      },
+      {
+        "kicker": "第二步",
+        "title": "按单位系统倒推专业",
+        "summary": "不同系统要的人不同，专业规划要和目标单位一起看。",
+        "items": [
+          "税务、财政、海关、审计等系统更常见财政学、税收学、会计、审计、经济、金融等要求。",
+          "数字政府、网信、公安技术、海关信息化等方向更常见计算机、软件、网络安全、数据类要求。",
+          "政法系统、纪检监察、市场监管、金融监管等方向常见法学要求，部分岗位还会看法考、党员、研究生学历。"
+        ]
+      },
+      {
+        "kicker": "第三步",
+        "title": "别把考公当唯一退路",
+        "summary": "岗位少、竞争强，专业还要保留市场就业和升学备选。",
+        "items": [
+          "财会、计算机、法学、统计、金融等方向即使不考公，也更容易转向企业、国企、银行、事务所、数据分析或继续深造。",
+          "纯为了考公选择自己完全不喜欢的专业，大学四年学习成本很高，最后也可能因为竞争人数放弃。",
+          "正式填志愿前，要核对目标省份职位表、学校培养方案、选科要求、转专业政策和保研升学数据。"
+        ]
+      }
+    ],
+    "source_urls": [
+      "https://bm.scs.gov.cn/kl2026",
+      "https://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/download/gkdownloads.html",
+      "https://www.ctdsb.net/c1673_202510/2565647.html",
+      "https://m.voc.com.cn/xhn/news/202510/30664347.html",
+      "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202510/t477992.html",
+      "https://zhuanlan.zhihu.com/p/1961854352114295000",
+      "https://zhuanlan.zhihu.com/p/1966454201862296953"
+    ]
+  },
+  {
+    "slug": "majors-suitable-for-girls",
+    "type": "topics",
+    "title": "男生女生常问的专业选择",
+    "description": "把“更适合男生还是女生”拆成兴趣、能力、工作环境、岗位性别比例和长期收益，而不是性别刻板印象。",
+    "major_slugs": ["accounting", "chinese-language-and-literature", "law", "pharmacy", "applied-psychology", "clinical-medicine", "computer-science-and-technology", "architecture", "electrical-engineering-and-automation", "vehicle-engineering"],
+    "content": "专业适配应当回到能力、兴趣、风险承受和生活方式。某些专业存在工地、产线、出差、夜班、强销售或高重复流程，某些行业女性比例更高，但这些都只是工作场景信息，不应该成为按性别一刀切的理由。"
+  },
+  {
+    "slug": "top-architecture-majors",
+    "type": "rankings",
+    "title": "建筑与城市空间方向专业清单",
+    "description": "建筑学、城乡规划及相关方向的专业差异和选择提醒。",
+    "major_slugs": ["architecture", "urban-rural-planning"],
+    "content": "建筑与城市空间方向适合愿意做长期作品训练、关心空间和公共环境的学生。填报时应同时看学制、培养方向、作品训练和城市资源。"
+  },
+  {
+    "slug": "ai-majors-2026",
+    "type": "topics",
+    "title": "2026值得关注的AI与智能类专业",
+    "description": "人工智能、具身智能、脑机科学、机器人工程、数据科学等热门方向怎么初步区分。",
+    "major_slugs": ["artificial-intelligence", "embodied-intelligence", "brain-computer-science-and-technology", "robotics-engineering", "data-science-and-big-data-technology", "intelligent-science-and-technology", "industrial-software", "artificial-intelligence-education", "automation", "electronic-information-engineering", "microelectronics-science-and-engineering", "information-security"],
+    "content": "AI相关专业热度很高，但不能只看名字。要同时看专业代码、专业类、学校平台、课程是否扎实、实验条件和未来深造路径。新专业尤其要警惕培养方案不成熟的风险。"
+  },
+  {
+    "slug": "majors-for-ai-era",
+    "type": "topics",
+    "title": "AI时代不只选人工智能",
+    "description": "除了人工智能本身，数据、软件、安全、制造、医学工程和教育数字化都有AI结合点。",
+    "major_slugs": ["computer-science-and-technology", "software-engineering", "cyberspace-security", "information-security", "internet-of-things-engineering", "communication-engineering", "intelligent-manufacturing-engineering", "industrial-software", "digital-economy", "statistics", "artificial-intelligence-education", "brain-computer-science-and-technology"],
+    "content": "AI时代的专业选择不等于所有人都去读人工智能。更稳妥的思路是看自己适合算法、工程、数据、硬件、教育、医学还是安全，再选择对应的专业入口。"
+  }
+]

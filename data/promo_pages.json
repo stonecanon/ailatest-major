@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "xiaohongshu-ai-major-choice",
+    "channel": "小红书家长版",
+    "title": "孩子想学AI，先别只看专业名字",
+    "description": "人工智能、计算机、软件工程、数据科学、机器人工程、具身智能听起来都很热，但适合的人、课程基础和未来路径并不一样。",
+    "hook": "AI专业不是名字越新越好，真正要看孩子适不适合数学、编程、工程实践和长期自学。",
+    "primary_cta": "看AI热门专业清单",
+    "primary_href": "/topics/ai-majors-2026/",
+    "secondary_cta": "做专业匹配小测",
+    "secondary_href": "/#assistant",
+    "major_slugs": ["artificial-intelligence", "computer-science-and-technology", "software-engineering", "data-science-and-big-data-technology", "robotics-engineering", "embodied-intelligence"],
+    "points": [
+      "如果孩子只是会用AI工具，不等于适合人工智能专业；人工智能更看数学、算法、数据和工程实现。",
+      "如果想要更稳的计算机基础，可以同时比较计算机科学与技术、软件工程、数据科学与大数据技术。",
+      "具身智能、脑机科学与技术等新专业热度高，但更要看学校平台、实验条件、培养方案和后续深造路径。"
+    ],
+    "source_note": "专业目录字段以教育部/阳光高考公开专业目录为基础；解释性内容为AI结构化辅助，正式填报前请核验学校招生章程和培养方案。"
+  },
+  {
+    "slug": "zhihu-zhejiang-80-volunteer-order",
+    "channel": "知乎长文版",
+    "title": "浙江80个平行志愿，真正难的是怎么排序",
+    "description": "浙江考生不是只需要知道“我能上哪些学校”，更需要判断80个志愿如何排序、哪些浪费、哪些风险太高、保底是否足够。",
+    "hook": "同样一组学校和专业，排序不同，风险结构完全不同。先把志愿变成一份可解释的决策清单。",
+    "primary_cta": "打开志愿排序助手",
+    "primary_href": "/planner/",
+    "secondary_cta": "查看位次数据边界",
+    "secondary_href": "/admissions/rank-sources/",
+    "major_slugs": ["artificial-intelligence", "computer-science-and-technology", "software-engineering", "electrical-engineering-and-automation", "law", "accounting"],
+    "points": [
+      "先排除不能接受的方向，比如医学、师范、民办、中外合作、城市距离，再谈冲稳保。",
+      "不要只堆热门专业。重复学校过多、重复专业过多、城市过于集中，都会降低选择弹性。",
+      "浙江和山东更适合做专业级历史位次参考；广东、上海、江苏等院校专业组省份不能把专业组线误当成单专业位次。"
+    ],
+    "source_note": "投档位次来自省教育考试院公开发布文件；页面只做历史参考区间、排序解释和风险提示，不承诺录取概率。"
+  }
+]

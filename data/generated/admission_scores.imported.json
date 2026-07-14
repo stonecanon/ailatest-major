@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "province": "广东",
+    "university_id": 5,
+    "major_id": null,
+    "data_grain": "university_major_group",
+    "major_group_code": "205",
+    "major_group_name": "中山大学205专业组",
+    "batch": "本科批",
+    "subject_group": "物理类",
+    "min_score": 650,
+    "min_rank": 3300,
+    "avg_score": null,
+    "max_score": null,
+    "plan_count": 120,
+    "source_url": "https://eea.gd.gov.cn/ptgk/content/post_4746781.html",
+    "published_at": "2025-07-19",
+    "source_note": "广东省教育考试院公开本科批次投档情况；样例仅用于导入格式测试，不代表单专业位次。"
+  }
+]
