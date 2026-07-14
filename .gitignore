@@ -2,6 +2,8 @@ node_modules/
 dist/
 .wrangler/
 .cache/
+__pycache__/
+*.pyc
 .DS_Store
 Thumbs.db
 eol-*.html
