@@ -2237,7 +2237,8 @@ const infoPages = [
       "开发与维护团队：AILATEST STUDIO。",
       "数据纠错、公开来源补充、合作建议和产品反馈，请优先使用站内反馈页提交。带有公开来源链接、发布日期、文件名或截图说明的反馈会优先处理。",
       "反馈入口：/feedback/。统一联系邮箱：contact@ailatest.org。请勿发送密码、验证码、身份证号或准考证号等敏感信息。"
-    ]
+    ],
+    extra: `<div class="contact-matrix" aria-label="AILATEST STUDIO 联系矩阵"><article><h2>小红书</h2><p>产品方法与团队动态</p><a href="https://ailatest.org/assets/contact/xiaohongshu-qr.jpg" aria-label="查看 AILATEST STUDIO 小红书二维码"><img src="https://ailatest.org/assets/contact/xiaohongshu-qr.jpg" width="941" height="867" loading="lazy" alt="AILATEST STUDIO 小红书二维码"></a></article><article><h2>微信公众号</h2><p>产品更新与重要通知</p><a href="https://weixin.qq.com/r/mp/iS_4oBfEH0pgrVPD93qb" aria-label="打开 AILATEST STUDIO 微信公众号"><img src="https://ailatest.org/assets/contact/wechat-official-qr.jpg" width="430" height="430" loading="lazy" alt="AILATEST STUDIO 微信公众号二维码"></a></article><article><h2>微信反馈群</h2><p>二维码会过期，以联系矩阵页为准</p><a href="https://ailatest.org/connect.html#wechat-group" aria-label="查看当前 AILATEST STUDIO 微信反馈群二维码"><img src="https://ailatest.org/assets/contact/wechat-group-current.jpg" width="1080" height="1080" loading="lazy" alt="AILATEST STUDIO 微信产品反馈群二维码"></a></article></div>`
   },
   {
     pathname: "/privacy/",
